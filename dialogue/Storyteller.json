@@ -1,0 +1,44 @@
+{
+    "0-1": {
+        "audio": "replaceme",
+        "lines": [
+            {
+                "textTranslations": [
+                    { "language": "en", "text": "Oh a new one, willing or unwilling? I hope for your sake you came here willingly. Five months I've been here, and no end in sight." },
+                    { "language": "es", "text": "Oh, un recién llegado, ¿por voluntad propia o no? Espero por tu bien que hayas venido voluntariamente. Llevo cinco meses aquí y no se ve el final." },
+                    { "language": "jp", "text": "ああ、新入りか。自分の意思か、そうでないのか？君のためにも、自分の意思で来たことを願うよ。私はここに五か月いるが、終わりが見えない。" },
+                    { "language": "fr", "text": "Tiens, un nouveau. Volontaire ou pas ? Pour ton bien, j'espère que tu es venu de ton plein gré. Moi, ça fait cinq mois que je suis ici, et je ne vois pas la fin." },
+                    { "language": "de", "text": "Oh, ein Neuer. Freiwillig oder unfreiwillig? Ich hoffe für dich, dass du freiwillig hierhergekommen bist. Ich bin seit fünf Monaten hier, und ein Ende ist nicht in Sicht." },
+                    { "language": "cn", "text": "哦，又来一个新人，是自愿的还是被迫的？为了你自己好，我希望你是自愿来的。我已经在这里五个月了，看不到尽头。" }
+                ]
+            }
+        ],
+        "NextInstruction": "0-2"
+    },
+
+    "0-2": {
+        "audio": "replaceme",
+        "lines": [
+            {
+                "textTranslations": [
+                    { "language": "en", "text": "A word of advice, if they say doing something will pay off your debt faster, they're lying." },
+                    { "language": "es", "text": "Un consejo: si te dicen que hacer algo pagará tu deuda más rápido, mienten." },
+                    { "language": "jp", "text": "忠告しておくが、何かをすれば借金が早く返せると言われても、それは嘘だ。" },
+                    { "language": "fr", "text": "Un conseil : s'ils te disent que faire quelque chose remboursera ta dette plus vite, ils mentent." },
+                    { "language": "de", "text": "Ein Rat: Wenn sie sagen, dass eine bestimmte Aufgabe deine Schulden schneller tilgt, lügen sie." },
+                    { "language": "cn", "text": "给你一句忠告：如果他们说做点什么能让你更快还清债务，那就是在骗你。" }
+                ]
+            },
+            {
+                "textTranslations": [
+                    { "language": "en", "text": "Not that trying to decline will do you any good." },
+                    { "language": "es", "text": "No es que intentar negarte te vaya a servir de algo." },
+                    { "language": "jp", "text": "もっとも、断ろうとしても何の役にも立たないがな。" },
+                    { "language": "fr", "text": "Et puis, refuser ne t'apportera rien de toute façon." },
+                    { "language": "de", "text": "Nicht, dass es dir etwas bringen würde, es abzulehnen." },
+                    { "language": "cn", "text": "不过，就算你想拒绝，也不会有什么用。" }
+                ]
+            }
+        ]
+    }
+}

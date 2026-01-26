@@ -1,0 +1,54 @@
+{
+    "characters": [
+        {
+            "id": "Maisie",
+            "nameTranslations": [
+                { "language": "en", "name": "Maisie" },
+                { "language": "es", "name": "Maisie" },
+                { "language": "jp", "name": "メイジー" },
+                { "language": "fr", "name": "Maisie" },
+                { "language": "de", "name": "Maisie" },
+                { "language": "cn", "name": "梅西" }
+            ]
+        },
+        {
+            "id": "playername",
+            "nameTranslations": [
+                { "language": "en", "name": "playername" },
+                { "language": "es", "name": "playername" },
+                { "language": "jp", "name": "playername" },
+                { "language": "fr", "name": "playername" },
+                { "language": "de", "name": "playername" },
+                { "language": "cn", "name": "playername" }
+            ]
+        }
+    ],
+    "dialogue": [
+        {
+            "speakerId": "Maisie",
+            "textTranslations": [
+                { "language": "en", "text": "Much better! But you can't expect them to always come from the same place, you can never guess the gaps they might sneak through." },
+                { "language": "es", "text": "¡Mucho mejor! Pero no puedes esperar que siempre vengan del mismo lugar; nunca se sabe por qué huecos podrían colarse." },
+                { "language": "jp", "text": "ずっと良くなったわ！でも、いつも同じ場所から来ると思っちゃだめよ。どんな隙間から忍び込んでくるか分からないんだから。" },
+                { "language": "fr", "text": "Beaucoup mieux ! Mais tu ne peux pas t'attendre à ce qu'ils arrivent toujours du même endroit ; on ne sait jamais par quelles brèches ils pourraient passer." },
+                { "language": "de", "text": "Viel besser! Aber du kannst nicht erwarten, dass sie immer vom selben Ort kommen - man weiß nie, durch welche Lücken sie sich schleichen." },
+                { "language": "cn", "text": "好多了！但你不能指望他们总是从同一个地方出现，他们可能会从任何缝隙中钻出来。" }
+            ],
+            "position": "right",
+            "animation": "player_wave"
+        },
+        {
+            "speakerId": "Maisie",
+            "textTranslations": [
+                { "language": "en", "text": "This time they'll be released from two locations, think you can handle it?" },
+                { "language": "es", "text": "Esta vez saldrán de dos lugares distintos, ¿crees que podrás manejarlo?" },
+                { "language": "jp", "text": "今回は二か所から現れるわ。対応できると思う？" },
+                { "language": "fr", "text": "Cette fois, ils sortiront de deux endroits différents. Tu penses pouvoir gérer ça ?" },
+                { "language": "de", "text": "Diesmal werden sie aus zwei verschiedenen Orten kommen. Meinst du, du schaffst das?" },
+                { "language": "cn", "text": "这次他们会从两个地方出现，你觉得能应付得了吗？" }
+            ],
+            "position": "right",
+            "animation": "player_talking"
+        }
+    ]
+}

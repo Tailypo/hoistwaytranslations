@@ -1,0 +1,93 @@
+{
+    "characters": [
+        {
+            "id": "Maisie",
+            "nameTranslations": [
+                { "language": "en", "name": "Maisie" },
+                { "language": "es", "name": "Maisie" },
+                { "language": "jp", "name": "メイジー" },
+                { "language": "fr", "name": "Maisie" },
+                { "language": "de", "name": "Maisie" },
+                { "language": "cn", "name": "梅西" }
+            ]
+        },
+        {
+            "id": "playername",
+            "nameTranslations": [
+                { "language": "en", "name": "playername" },
+                { "language": "es", "name": "playername" },
+                { "language": "jp", "name": "playername" },
+                { "language": "fr", "name": "playername" },
+                { "language": "de", "name": "playername" },
+                { "language": "cn", "name": "playername" }
+            ]
+        }
+    ],
+    "dialogue": [
+        {
+            "speakerId": "Maisie",
+            "textTranslations": [
+                { "language": "en", "text": "Okay that didn't go very well did it?" },
+                { "language": "es", "text": "Bueno, eso no salió muy bien, ¿verdad?" },
+                { "language": "jp", "text": "うまくはいかなかったみたいね？" },
+                { "language": "fr", "text": "Bon, ça ne s'est pas très bien passé, n'est-ce pas ?" },
+                { "language": "de", "text": "Okay, das lief nicht besonders gut, oder?" },
+                { "language": "cn", "text": "好吧，那好像不太顺利，对吧？" }
+            ],
+            "position": "right",
+            "animation": "player_wave"
+        },
+        {
+            "speakerId": "playername",
+            "textTranslations": [
+                { "language": "en", "text": "There were far too many! You can't expect me to get all of those with just this gun!" },
+                { "language": "es", "text": "¡Eran demasiados! ¡No puedes esperar que los elimine a todos solo con esta arma!" },
+                { "language": "jp", "text": "数が多すぎたよ！この銃だけで全部倒せるわけないだろ！" },
+                { "language": "fr", "text": "Ils étaient bien trop nombreux ! Tu ne peux pas t'attendre à ce que je les élimine tous avec seulement ce pistolet !" },
+                { "language": "de", "text": "Es waren viel zu viele! Du kannst doch nicht erwarten, dass ich die alle nur mit dieser Waffe erledige!" },
+                { "language": "cn", "text": "敌人太多了！你不能指望我只靠这把枪就能消灭他们！" }
+            ],
+            "position": "left",
+            "animation": "player_talking"
+        },
+        {
+            "speakerId": "Maisie",
+            "textTranslations": [
+                { "language": "en", "text": "This is where our turrets come in handy, I've credited your account with some resources, don't worry this won't increase your debt much." },
+                { "language": "es", "text": "Aquí es donde nuestras plataformas y torretas resultan útiles, he acreditado tu cuenta con algunos recursos, no te preocupes, esto no aumentará mucho tu deuda." },
+                { "language": "jp", "text": "ここで私たちのプラットフォームとタレットが役に立つのよ。あなたのアカウントにいくつかのリソースをクレジットしたから、心配しないで、これがあなたの負債を大きくすることはないわ。" },
+                { "language": "fr", "text": "C'est là que nos plateformes et tourelles deviennent utiles, j'ai crédité votre compte avec des ressources, ne vous inquiétez pas, cela n'augmentera pas beaucoup votre dette." },
+                { "language": "de", "text": "Hier kommen unsere Plattformen und Geschütztürme ins Spiel, ich habe deinem Konto einige Ressourcen gutgeschrieben, keine Sorge, das wird deine Schulden nicht stark erhöhen." },
+                { "language": "cn", "text": "这就是我们的平台和炮塔派上用场的时候了，我已经给你的账户增加了一些资源，别担心，这不会大幅增加你的债务。" }
+            ],
+            "position": "right",
+            "animation": "player_talking"
+        },
+        {
+            "speakerId": "Maisie",
+            "textTranslations": [
+                { "language": "en", "text": "Place some platforms ({input.platform}) in a way that makes the power orb harder to reach, Then on top of those place some gun turrets ({input.turret}) to help you." },
+                { "language": "es", "text": "Coloca algunas plataformas ({input.platform}) de forma que sea más difícil alcanzar el orbe de poder. Luego coloca encima torretas ({input.turret}) para que te ayuden." },
+                { "language": "jp", "text": "パワーオーブにたどり着きにくくなるようにプラットフォーム ({input.platform}) を配置して、その上にガンタレット ({input.turret}) を置いて助けにしなさい。" },
+                { "language": "fr", "text": "Place quelques plateformes ({input.platform}) pour rendre l'orbe d'énergie plus difficile à atteindre, puis installe des tourelles ({input.turret}) dessus pour t’aider." },
+                { "language": "de", "text": "Platziere einige Plattformen ({input.platform}), damit die Energiekugel schwerer zu erreichen ist. Stell dann Geschütztürme ({input.turret}) darauf, um dir zu helfen." },
+                { "language": "cn", "text": "放置一些平台 ({input.platform}) 让能量球更难被接近，然后在上面放置一些炮塔 ({input.turret}) 来帮你。" }
+            ],
+            "position": "right",
+            "animation": "player_talking"
+        },
+        {
+            "speakerId": "Maisie",
+            "textTranslations": [
+                { "language": "en", "text": "Note that you can only place them in the highlighted \"Build Zones\" for safety reasons." },
+                { "language": "es", "text": "Ten en cuenta que puedes colocarlos en las 'Zonas de construcción' resaltadas." },
+                { "language": "jp", "text": "強調表示されている「建設ゾーン」に配置できることを覚えておいて。" },
+                { "language": "fr", "text": "Note que tu peux les placer dans les « zones de construction » mises en évidence." },
+                { "language": "de", "text": "Beachte, dass du sie in den hervorgehobenen „Bauzonen“ platzieren kannst." },
+                { "language": "cn", "text": "请注意，你只能将它们放置在高亮显示的“建造区域”内。" }
+            ],
+            "position": "right",
+            "animation": "player_talking"
+        }
+    ]
+}

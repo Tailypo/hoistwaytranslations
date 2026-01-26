@@ -1,0 +1,117 @@
+{
+    "characters": [
+        {
+            "id": "alice",
+            "nameTranslations": [
+                { "language": "en", "name": "Alice" },
+                { "language": "es", "name": "Alicia" },
+                { "language": "jp", "name": "アリス" }
+            ]
+        },
+        {
+            "id": "bob",
+            "nameTranslations": [
+                { "language": "en", "name": "Bob" },
+                { "language": "es", "name": "Roberto" },
+                { "language": "jp", "name": "ボブ" }
+            ]
+        },
+        {
+            "id": "playername",
+            "nameTranslations": [
+                { "language": "en", "name": "playername" },
+                { "language": "es", "name": "playername" },
+                { "language": "jp", "name": "playername" }
+            ]
+        }
+    ],
+    "dialogue": [
+        {
+            "speakerId": "alice",
+            "textTranslations": [
+                { "language": "en", "text": "This is the test map intro dialogue! Hello there!" },
+                { "language": "es", "text": "¡Este es el diálogo de introducción del mapa de prueba! ¡Hola!" },
+                { "language": "jp", "text": "これはテストマップの導入ダイアログです！こんにちは！" }
+            ],
+            "position": "left",
+            "animation": "player_wave",
+            "audio": "TestAudio1"
+        },
+        {
+            "speakerId": "bob",
+            "textTranslations": [
+                { "language": "en", "text": "Wow that's exciting! Tell me what to do! Let's emote while we're at it!" },
+                { "language": "es", "text": "¡Qué emocionante! ¡Dime qué hacer! ¡Vamos a hacer una emoticono mientras estamos en ello!" },
+                { "language": "jp", "text": "それは興味深い！何をすればいいの？それをしながらエモートしよう！" }
+            ],
+            "position": "right",
+            "animation": "player_wave",
+            "audio": "TestAudio2"
+        },
+        {
+            "speakerId": "alice",
+            "textTranslations": [
+                { "language": "en", "text": "Press 'I' to open your inventory and equip your items, press enter to start the combat wave! But place some turrets first!" },
+                { "language": "es", "text": "¡Presiona 'I' para abrir tu inventario y equipar tus items, presiona enter para empezar la batalla! Pero coloca algunas torres primero!" },
+                { "language": "jp", "text": " 'I'を押してインベントリを開き、アイテムを装備し、スペースを押して戦闘を開始！ただし、最初にいくつかのトーレを配置してください！" }
+            ],
+            "position": "left",
+            "animation": "player_talking",
+            "audio": "TestAudio3"
+        },
+        {
+            "speakerId": "bob",
+            "textTranslations": [
+                { "language": "en", "text": "Place platforms and elevators. Then turrets on top of the platforms. And I can upgrade my turrets by looking at them!" },
+                { "language": "es", "text": "¡Y puedo mejorar mis torres mirándolas!" },
+                { "language": "jp", "text": "そして、私はトーレを見ることでそれらを強化できます！" }
+            ],
+            "position": "right",
+            "animation": "player_talking",
+            "audio": "TestAudio4"
+        },
+        {
+            "speakerId": "alice", 
+            "textTranslations": [
+                { "language": "en", "text": "Don't let the enemies touch the cores or you'll lose, also try not to touch the enemies, and some may try to chase you down." },
+                { "language": "es", "text": "¡No dejes que los enemigos toquen los núcleos o perderás, y también intenta no tocar a los enemigos, y algunos pueden intentar perseguirte." },
+                { "language": "jp", "text": "コアに触れないでください、そうしないと負けます。また、敵に触れないようにしてください。敵は追いかけてきます。" }
+            ],
+            "position": "left",
+            "animation": "player_sad",
+            "audio": "TestAudio5"
+        },
+        {
+            "speakerId": "alice",
+            "textTranslations": [
+                { "language": "en", "text": "Enemies drop items and experience, which upgrades your equipped items." },
+                { "language": "es", "text": "Los enemigos sueltan objetos y experiencia, que mejora tus objetos equipados." },
+                { "language": "jp", "text": "敵はアイテムと経験値をドロップし、装備したアイテムがアップグレードされます。" }
+            ],
+            "position": "left",
+            "animation": "player_talking",
+            "audio": "TestAudio6",
+            "hideAfter": true
+        },
+        {
+            "speakerId": "playername",
+            "textTranslations": [
+                { 
+                    "language": "en", 
+                    "text": "This dialogue shows the player's name and model!" 
+                },
+                { 
+                    "language": "es", 
+                    "text": "This dialogue shows the player's name and model!" 
+                },
+                { 
+                    "language": "jp", 
+                    "text": "This dialogue shows the player's name and model!" 
+                }
+            ],
+            "position": "right",
+            "animation": "player_talking",
+            "audio": "TestAudio6"
+        }
+    ]
+}

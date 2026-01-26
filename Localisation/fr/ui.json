@@ -1,0 +1,21 @@
+{
+  "_comment": "Menu UI Text",    
+  "MENU_STARTGAME": "Démarrer",
+  "MENU_JOINGAME": "Rejoindre",
+  "MENU_SETTINGS": "Paramètres",
+  "MENU_QUIT": "Quitter",
+  "MENU_LOADOUT": "Équipement",
+  "MENU_CODEX": "Codex",
+  "MENU_PREALPHAWARNING": "<u>Version pré-alpha</u> Ceci est une version précoce et incomplète du jeu. Attendez-vous à des bugs et à des fonctionnalités manquantes. Vos données de sauvegarde peuvent être perdues",
+  "MENU_HOST_SINGLEPLAYER": "Solo",
+  "MENU_HOST_STEAMFRIENDS": "Amis Steam uniquement",
+  "MENU_HOST_LAN": "Réseau local",
+  "MENU_HOST_START": "Démarrer la partie",
+  "MENU_BACK": "Retour",
+  "MENU_JOIN_JOINLAN": "Rejoindre en LAN",
+  "MENU_JOIN_REFRESH": "Actualiser",
+  "MENU_JOIN_TITLE": "Rejoindre un serveur",
+  "MENU_JOIN_FINDINGSERVERS": "Recherche de serveurs...",
+  "MENU_JOIN_SERVERLISTMAINTENANCE": "La liste des serveurs est en maintenance, rejoignez directement via IP ou via Steam.",
+  "MENU_JOIN_SERVERSFOUND": "Serveurs trouvés"
+}

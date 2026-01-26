@@ -1,0 +1,70 @@
+{
+    "characters": [
+        {
+            "id": "Maisie",
+            "nameTranslations": [
+                { "language": "en", "name": "Maisie" },
+                { "language": "es", "name": "Maisie" },
+                { "language": "jp", "name": "メイジー" },
+                { "language": "fr", "name": "Maisie" },
+                { "language": "de", "name": "Maisie" },
+                { "language": "cn", "name": "梅西" }
+            ]
+        },
+        {
+            "id": "playername",
+            "nameTranslations": [
+                { "language": "en", "name": "playername" },
+                { "language": "es", "name": "playername" },
+                { "language": "jp", "name": "playername" },
+                { "language": "fr", "name": "playername" },
+                { "language": "de", "name": "playername" },
+                { "language": "cn", "name": "playername" }
+            ]
+        }
+    ],
+    "dialogue": [
+        {
+            "speakerId": "Maisie",
+            "textTranslations": [
+                { "language": "en", "text": "Here we are! Your first training session! Don't sweat too much, It'll be easy." },
+                { "language": "es", "text": "¡Aquí estamos! ¡Tu primera sesión de entrenamiento! No te preocupes demasiado, será fácil." },
+                { "language": "jp", "text": "さあ来たわね！最初の訓練セッションよ！あまり緊張しないで、大丈夫だから。" },
+                { "language": "fr", "text": "Nous y voilà ! Ta première séance d'entraînement ! Ne t'inquiète pas trop, ce sera facile." },
+                { "language": "de", "text": "Da sind wir! Deine erste Trainingseinheit! Keine Sorge, das wird leicht." },
+                { "language": "cn", "text": "到了！这是你的第一次训练！别紧张，很简单的。" }
+            ],
+            "position": "right",
+            "animation": "player_wave",
+            "audio": "TestAudio1"
+        },
+        {
+            "speakerId": "Maisie",
+            "textTranslations": [
+                { "language": "en", "text": "If you ignore the creatures we're about to unleash into the room anyway, We'll keep them small for now."},
+                { "language": "es", "text": "Si ignoras a las criaturas que estamos a punto de soltar en la sala, por ahora las mantendremos pequeñas." },
+                { "language": "jp", "text": "これから部屋に放つクリーチャーは無視してもいいわ。今のところは小さいままにしておくから。" },
+                { "language": "fr", "text": "Si tu ignores les créatures que nous allons lâcher dans la salle, ne t'en fais pas, elles resteront petites pour l'instant." },
+                { "language": "de", "text": "Wenn du die Kreaturen ignorierst, die wir gleich in den Raum lassen, keine Sorge - wir halten sie erstmal klein." },
+                { "language": "cn", "text": "如果你忽略我们即将在房间里释放的那些生物的话，放心吧，我们会先让它们保持小体型。" }
+            ],
+            "position": "right",
+            "animation": "player_talking",
+            "audio": "TestAudio1"
+        },
+        {
+            "speakerId": "Maisie",
+            "textTranslations": [
+                { "language": "en", "text": "To start with, let's see how you handle a weapon, open your inventory ({input.inventory}) and equip the gun we've given you. Then call on us to release them (hold {input.startwave}) and we'll see how you do." },
+                { "language": "es", "text": "Para empezar, veamos cómo manejas un arma. Abre tu inventario ({input.inventory}) y equipa el arma que te hemos dado. Luego llama para liberarlos ({input.startwave}) y veremos cómo te va." },
+                { "language": "jp", "text": "まずは武器の扱いを見せてもらうわ。インベントリを開いて ({input.inventory})、渡した銃を装備して。それから私たちを呼んで ({input.startwave})、どう戦うか見せてもらう。" },
+                { "language": "fr", "text": "Pour commencer, voyons comment tu te débrouilles avec une arme. Ouvre ton inventaire ({input.inventory}) et équipe le pistolet que nous t'avons donné. Ensuite, appelle-nous pour les libérer ({input.startwave}) et nous verrons comment tu t'en sors." },
+                { "language": "de", "text": "Fangen wir damit an zu sehen, wie du mit einer Waffe umgehst. Öffne dein Inventar ({input.inventory}) und rüste die Waffe aus, die wir dir gegeben haben. Dann ruf uns, um sie freizulassen ({input.startwave}), und wir sehen, wie du dich schlägst." },
+                { "language": "cn", "text": "首先，让我们看看你如何使用武器。打开你的物品栏 ({input.inventory}) 并装备我们给你的枪。然后召唤我们释放敌人 ({input.startwave})，看看你的表现。" }
+            ],
+            "position": "right",
+            "animation": "player_talking",
+            "audio": "TestAudio1"
+        }
+    ]
+}
