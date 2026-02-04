@@ -1,0 +1,99 @@
+{
+  "CONDITIONTELLER_DIALOGUE_INTRODUCTION": "hm? you there. yes, you. come closer. you want to know about this place, yes? well, listen close.@Me can move around easy, tell you how things are where you're going, help prepare.",
+  "CONDITIONTELLER_DIALOGUE_RAIN": [
+    "it soggy down there today, watch out for electric things.",
+    "me hear it rain lots today, putting out all the fires down there.",
+    "it rain a lot today, be careful of flood water."
+  ],
+  "CONDITIONTELLER_DIALOGUE_ENEMIES": [
+    "there dangerous things down there today, be careful.",
+    "lots of things come through today, lots of riches too."
+  ],
+  "CONDITIONTELLER_DIALOGUE_CLEAR": [
+    "me no sen anything today.",
+    "everything today good, nobody seem angry."
+  ],
+  "CONDITIONTELLER_DIALOGUE_SHOP": [
+    "me seen creature selling things today, if only had money.",
+    "i saw shop thing down there, you buy me something?"
+  ],
+  "CONDITIONTELLER_DIALOGUE_NOTHING": [
+    "hello friend, me no see anything today. but maybe you want tell me?",
+    "me no see anything today, but maybe you want tell me? me like to listen.",
+    "look nice down there, maybe you bring me?"
+  ],
+    "SHOP_DIALOGUE_HELLO": [
+    "Come come! Step right up! I have the finest wares in the universe! Take a look and see if anything catches your eye!",
+    "I've snuck these out of the rift just for you! Take a look and see if anything catches your eye!",
+    "Your items are nice and all, but I have something better! Your company's goods can't compare to mine!",
+    "I'm glad you're here, I picked these out just for you! Take a look and see if anything catches your eye!"
+  ],
+  "PAD_INTRODEFENCE": [
+    "Biosphere supression field failure, Attack imminant.",
+    "Biosphere at low power, Defend until energy recovery complete."
+  ],
+  "PAD_BIOSPHEREHEALTHLOW": [
+    "Biosphere life critical.",
+    "Biosphere failing",
+    "Defend your Biosphere.",
+    "Mission failure imminent."
+  ],
+  "PAD_BUILD_MODE": [
+    "Build Mode",
+    "Build Mode Activated",
+    "Construction permitted.",
+    "Build your defenses."
+  ],
+  "PAD_NO_PATH": [
+    "No Path to Biosphere",
+    "Biosphere is unreachable.",
+    "Biosphere requires access to enemy approach"
+  ],
+  "PAD_NEW_LIFEFORM": [
+    "New lifeform detected, adding to databank.",
+    "New entity recorded."
+  ],
+  "PAD_BOSS_SPAWN": [
+    "Immense lifeform detected.",
+    "Monumental signal detected. Good luck.",
+    "The corporation sends its best wishes.",
+    "Evacuation is suggested.",
+    "Dangerous creature detected."
+  ],
+  "PAD_POWERLINE_DESTROYED": [
+    "Power line destroyed.",
+    "Power line destroyed. Do not allow any more to be damaged.",
+    "Company property destroyed.",
+    "Look after the next one better."
+  ],
+  "PAD_OTHERPLAYERDEATH": [
+    "A teammate is down.",
+    "A teammate has fallen.",
+    "a colleague has been defeated"
+  ],
+  "PAD_PLAYERDEATH": [
+    "You are expendable, your hardware is not. Do not damage or lose company property.",
+    "Try to be more careful.",
+    "The company is relying on your success.",
+    "Please do better next time"
+  ],
+  "PAD_STORY_FIRSTENABLE": [
+    "Psychosis analytics device active, connection to lifeform successful. Welcome to the P.A.D network."
+  ],
+  "PAD_BIOSPHEREDESTROYED": [
+    "Biosphere destroyed, Management has been notified.",
+    "You have failed your task. Return immediately.",
+    "Area overwhelmed, evacuate immediately."
+  ],
+  "PAD_BIOSPHEREDEFENDEDSUCCESS": [
+    "Biosphere fully charged. Your mission has succeeded.",
+    "Task complete. Continue to the next one.",
+    "The company is pleased with your performance.",
+    "This area is now secure. But more areas need attention."
+  ],
+  "PAD_RAREINTROLINES": [
+    "Do not fail us.",
+    "The company wishes you the best success.",
+    "Good luck with your debt."
+  ]
+}
