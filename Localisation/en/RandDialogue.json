@@ -1,16 +1,16 @@
 {
-  "CONDITIONTELLER_DIALOGUE_INTRODUCTION": "hm? you there. yes, you. come closer. you want to know about this place, yes? well, listen close.@Me can move around easy, tell you how things are where you're going, help prepare.",
+  "CONDITIONTELLER_DIALOGUE_INTRODUCTION": "come closer. you want to know about this place, yes? well, listen close.@Me can move around easy, tell you how things are where you're going, help prepare.",
   "CONDITIONTELLER_DIALOGUE_RAIN": [
     "it soggy down there today, watch out for electric things.",
     "me hear it rain lots today, putting out all the fires down there.",
     "it rain a lot today, be careful of flood water."
   ],
   "CONDITIONTELLER_DIALOGUE_ENEMIES": [
-    "there dangerous things down there today, be careful.",
+    "there dangerous things today, be careful.",
     "lots of things come through today, lots of riches too."
   ],
   "CONDITIONTELLER_DIALOGUE_CLEAR": [
-    "me no sen anything today.",
+    "me no sense anything today.",
     "everything today good, nobody seem angry."
   ],
   "CONDITIONTELLER_DIALOGUE_SHOP": [
@@ -26,7 +26,9 @@
     "Come come! Step right up! I have the finest wares in the universe! Take a look and see if anything catches your eye!",
     "I've snuck these out of the rift just for you! Take a look and see if anything catches your eye!",
     "Your items are nice and all, but I have something better! Your company's goods can't compare to mine!",
-    "I'm glad you're here, I picked these out just for you! Take a look and see if anything catches your eye!"
+    "I'm glad you're here, I picked these out just for you! Take a look and see if anything catches your eye!",
+    "The Sun Corporation can't compete with me! Take a look!",
+    "Bloody work out there, but you could do better with my help."
   ],
   "PAD_INTRODEFENCE": [
     "Biosphere supression field failure, Attack imminant.",
@@ -60,11 +62,16 @@
     "Evacuation is suggested.",
     "Dangerous creature detected."
   ],
+    "PAD_INTROPOWERLINE": [
+    "Damage to powerlines will be reflected in your debt.",
+    "Power lines draw enemy ire, do not allow them to be damaged.",
+    "Do not allow the powerlines to fall."
+  ],
   "PAD_POWERLINE_DESTROYED": [
-    "Power line destroyed.",
-    "Power line destroyed. Do not allow any more to be damaged.",
+    "Powerline destroyed.",
+    "Powerline destroyed. Do not allow any more to be damaged.",
     "Company property destroyed.",
-    "Look after the next one better."
+    "Additional debt occured."
   ],
   "PAD_OTHERPLAYERDEATH": [
     "A teammate is down.",
@@ -72,10 +79,11 @@
     "a colleague has been defeated"
   ],
   "PAD_PLAYERDEATH": [
-    "You are expendable, your hardware is not. Do not damage or lose company property.",
+    "You are expendable, your hardware is not. Do not damage or misplace company property.",
     "Try to be more careful.",
     "The company is relying on your success.",
-    "Please do better next time"
+    "Please do better next time.",
+    "Additional debt has been assigned to your account."
   ],
   "PAD_STORY_FIRSTENABLE": [
     "Psychosis analytics device active, connection to lifeform successful. Welcome to the P.A.D network."
@@ -89,11 +97,17 @@
     "Biosphere fully charged. Your mission has succeeded.",
     "Task complete. Continue to the next one.",
     "The company is pleased with your performance.",
-    "This area is now secure. But more areas need attention."
+    "This area is now secure, but more areas need attention."
   ],
   "PAD_RAREINTROLINES": [
     "Do not fail us.",
     "The company wishes you the best success.",
     "Good luck with your debt."
+  ],
+  "PAD_HIGHTEMP": [
+    "Temperature conditions unsuitable for human life. Seek shelter.",
+    "Unit beyond operational temperature range.",
+    "Unit overheat, seek maintenance personnel.",
+    "Unit warrenty void, report to management for corrective action."
   ]
 }

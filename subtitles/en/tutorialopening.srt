@@ -1,0 +1,35 @@
+1
+00:00:02,400 --> 00:00:05,000
+Greetings new employee! Thank you for willingly, or unwillingly, applying to work at the ground-breaking facilities of the Sun Corporation!
+
+2
+00:00:06,200 --> 00:00:09,000
+If you have been acquired due to your debt, you will remain with us until it has been decided it is repaid.
+
+3
+00:00:9,000 --> 00:00:12,000
+At the Sun Corporation, we're the first line of defence against the dangers of the universe
+
+3
+00:00:12,000 --> 00:00:15,000
+Using our patented defence systems, you'll be keeping your assigned sector online.
+
+4
+00:00:15,000 --> 00:00:18,000
+Since the first reported instance of debris falling in [redacted] we have succeeded at stopping [redacted] breaches and we are relying on YOU to continue our success 
+
+5
+00:00:18,000 --> 00:00:22,000
+You have automatically been assigned a manager and your initiation begins immediately. 
+
+6
+00:00:22,000 --> 00:00:24,000
+Find your nearest hoist way to take you to your mandatory training sessions.
+
+7
+00:00:26,000 --> 00:00:28,000
+The future of yourself, and the company depends on your success. 
+
+8
+00:00:28,000 --> 00:00:30,000
+We hope you have an enjoyable stay with the Sun Corporation.
