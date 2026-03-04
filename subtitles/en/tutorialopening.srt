@@ -8,28 +8,32 @@ If you have been acquired due to your debt, you will remain with us until it has
 
 3
 00:00:9,000 --> 00:00:12,000
-At the Sun Corporation, we're the first line of defence against the dangers of the universe
+Formed during the 1980s sun expeditions, the Sun Corporation is the worldwide leader in energy production, this energy made us the perfect partner for
 
 3
 00:00:12,000 --> 00:00:15,000
-Using our patented defence systems, you'll be keeping your assigned sector online.
+project 'Divine', where our advanced power grid is used to assist in the suppression of otherworldly forces.
 
 4
 00:00:15,000 --> 00:00:18,000
-Since the first reported instance of debris falling in [redacted] we have succeeded at stopping [redacted] breaches and we are relying on YOU to continue our success 
+Using our patented defence systems, you'll be working to keep your assigned sector online.
 
 5
 00:00:18,000 --> 00:00:22,000
-You have automatically been assigned a manager and your initiation begins immediately. 
+Since the first reported instance of debris falling in [redacted] we have succeeded at stopping [redacted] breaches and we are relying on YOU to continue our success 
 
 6
-00:00:22,000 --> 00:00:24,000
-Find your nearest hoist way to take you to your mandatory training sessions.
+00:00:18,000 --> 00:00:23,000
+You have automatically been assigned a manager and your initiation begins immediately.
 
 7
+00:00:23,000 --> 00:00:24,000
+Find your nearest hoist way to take you to your mandatory training sessions.
+
+8
 00:00:26,000 --> 00:00:28,000
 The future of yourself, and the company depends on your success. 
 
-8
+9
 00:00:28,000 --> 00:00:30,000
 We hope you have an enjoyable stay with the Sun Corporation.
