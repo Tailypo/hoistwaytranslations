@@ -1,6 +1,7 @@
 {
     "_COMMENT": "Turrets",
     "UNLOCK_LOCKED": "LOCKED",
+    "TURRET_NONE": "No Turret",
     "TURRET_GUNTURRET": "Gun Turret",
     "TURRET_GUNTURRET_DESC": "Standard issue turret which fires bullets at targets.",
     "TURRET_MACHINEGUNTURRET": "Machine Gun Turret",

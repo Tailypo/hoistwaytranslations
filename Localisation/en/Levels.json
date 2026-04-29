@@ -1,0 +1,9 @@
+{
+  "_comment": "Maps",
+  "MAP_DEV": "Development Map",
+  "MAP_DEV_SHORT": "Dev Map",
+  "MAP_DEV_DESCRIPTION": "A map used for testing and development purposes.",
+  "MAP_LEVEL1": "The Caverns",
+  "MAP_LEVEL2": "The Depths",
+  "MAP_LEVEL3": "The Summit"
+}

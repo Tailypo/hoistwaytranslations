@@ -32,7 +32,8 @@
   ],
   "PAD_INTRODEFENCE": [
     "Biosphere supression field failure, Attack imminant.",
-    "Biosphere at low power, Defend until energy recovery complete."
+    "Biosphere at low power, Defend until energy recovery complete.",
+    "Biosphere damaged, defend while The Sun Corporation recovers capabilities."
   ],
   "PAD_BIOSPHEREHEALTHLOW": [
     "Biosphere life critical.",
@@ -86,7 +87,10 @@
     "Additional debt has been assigned to your account."
   ],
   "PAD_STORY_FIRSTENABLE": [
-    "Psychosis analytics device active, connection to lifeform successful. Welcome to the P.A.D network."
+    "Psychosis Analytics Device active, connection successful, Welcome to the P.A.D network. This PAD is connected to the Sun Corporation and will assist you in your work. Please follow the provided manual and do not damage or misplace company property."
+  ],
+  "PAD_FIRSTBEEP": [
+    "PAD has detected an unusual signal. Be aware of increases in beep frequency to avoid damage to unit."
   ],
   "PAD_BIOSPHEREDESTROYED": [
     "Biosphere destroyed, Management has been notified.",
@@ -95,9 +99,14 @@
   ],
   "PAD_BIOSPHEREDEFENDEDSUCCESS": [
     "Biosphere fully charged. Your mission has succeeded.",
+    "Biosphere secured. Move to the next area.",
+    "Biosphere charging completed. Elevator online."
+  ],
+  "PAD_SUCCESSGENERIC": [
     "Task complete. Continue to the next one.",
-    "The company is pleased with your performance.",
-    "This area is now secure, but more areas need attention."
+    "This area is now secure, but more areas need attention.",
+    "Mission complete. Elevator access permitted.",
+    "Elevator access granted. Move to the next area."
   ],
   "PAD_RAREINTROLINES": [
     "Do not fail us.",

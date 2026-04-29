@@ -1,0 +1,450 @@
+{
+  "ITEM_WORDS_CRIT": [
+    "Lucky",
+    "Wishful",
+    "Blessed",
+    "Fortunate"
+  ],
+  "ITEM_WORDS_DAMAGE": [
+    "Painful",
+    "Nasty",
+    "Spiked",
+    "Sharp",
+    "Vicious"
+  ],
+  "ITEM_WORDS_SPEED": [
+    "Speedy",
+    "Fast",
+    "Quick",
+    "Swift",
+    "Agile",
+    "Dexterous"
+  ],
+  "ITEM_WORDS_BAD_CRIT": [
+    "Unlucky",
+    "Forgotten",
+    "Unfortunate"
+  ],
+  "ITEM_WORDS_BAD_DAMAGE": [
+    "Weak",
+    "Sappy",
+    "Feeble",
+    "Weakened",
+    "Forceless"
+  ],
+  "ITEM_WORDS_BAD_SPEED": [
+    "Slow",
+    "Leisurely",
+    "Idle",
+    "Plodding",
+    "Sluggish"
+  ],
+  "ITEM_WORDS_HEALTH_INCREASE": [
+    "Sustainable",
+    "Healthy",
+    "Strong",
+    "Iron-Willed",
+    "Survivors"
+  ],
+  "ITEM_WORDS_EFFECT_STRENGTH": [
+    "Vigorous",
+    "Powerful",
+    "Potent",
+    "Fierce"
+  ],
+  "ITEM_WORDS_EFFECT_DURATION": [
+    "Long Lasting",
+    "Sustained",
+    "Persistent"
+  ],
+  "ITEM_WORDS_BAD_HEALTH_INCREASE": [
+    "Depleted",
+    "Fragile",
+    "Weakening",
+    "Vulnerable"
+  ],
+  "ITEM_WORDS_BAD_EFFECT_STRENGTH": [
+    "Diminished",
+    "Frail",
+    "Waning",
+    "Weak"
+  ],
+  "ITEM_WORDS_BAD_EFFECT_DURATION": [
+    "Short-lived",
+    "Brief",
+    "Temporary",
+    "Ephemeral",
+    "Fleeting"
+  ],
+  "ITEM_WORDS_DEFENSE": [
+    "Defensive",
+    "Armored",
+    "Protective",
+    "Protected",
+    "Guarded"
+  ],
+  "ITEM_WORDS_MOVE_SPEED": [
+    "Swift",
+    "Quick",
+    "Agile",
+    "Dexterous"
+  ],
+  "ITEM_WORDS_HP_REGEN": [
+    "Regenerating",
+    "Regenerative",
+    "Restoring",
+    "Revitalizing"
+  ],
+  "ITEM_WORDS_BAD_DEFENSE": [
+    "Insecure",
+    "Hole Filled",
+    "Pithy",
+    "Weak",
+    "Insufficient"
+  ],
+  "ITEM_WORDS_BAD_MOVE_SPEED": [
+    "Slowing",
+    "Sluggish",
+    "Sticky",
+    "Heavy",
+    "Stiff"
+  ],
+  "ITEM_WORDS_BAD_HP_REGEN": [
+    "Inefficient",
+    "Sickly",
+    "Unhealthy",
+    "Stricken"
+  ],
+  "ITEM_EFFECT_FIRE": [
+    "Fire",
+    "Hot",
+    "Burning",
+    "Warming",
+    "Toasty"
+  ],
+  "ITEM_EFFECT_ICE": [
+    "Ice",
+    "Cold",
+    "Bitter",
+    "Freezing",
+    "Chilly"
+  ],
+  "ITEM_EFFECT_LIGHTNING": [
+    "Lightning",
+    "Shocking",
+    "Electric",
+    "Electrifying",
+    "Buzzing"
+  ],
+  "ITEM_EFFECT_POISON": [
+    "Poison",
+    "Poisonous",
+    "Sickening",
+    "Infectious",
+    "Toxic"
+  ],
+  "ITEM_EFFECT_STUN": [
+    "Stunning",
+    "Stun",
+    "Stopping",
+    "Halting",
+    "Halter"
+  ],
+  "ITEM_EFFECT_SLOW": [
+    "Slowing",
+    "Slow",
+    "Sapping",
+    "Decelerating",
+    "Lethargic"
+  ],
+  "ITEM_EFFECT_FRIENDLY_BULLETS": [
+    "Healing",
+    "Helping",
+    "Helpful",
+    "Medical",
+    "Medics"
+  ],
+  "ITEM_EFFECT_DOUBLE_SHOT": [
+    "Double Shot",
+    "Twice shot",
+    "Dual Shot"
+  ],
+  "ITEM_EFFECT_HEADHUNTER": [
+    "Headhunter",
+    "Pinpoint",
+    "Precise Aim",
+    "Weak Spotter",
+    "Skuller"
+  ],
+  "ITEM_EFFECT_TECHNICIAN_RELOAD": [
+    "Technicians",
+    "Smart Reload",
+    "Reloading Pro"
+  ],
+  "ITEM_EFFECT_CARELESS_INTENT": [
+    "Careless",
+    "Ammo Boost",
+    "Crit-less"
+  ],
+  "ITEM_EFFECT_DELIBERATE_INTENT": [
+    "Deliberate Intent",
+    "Intent Focus",
+    "Chosen Strike",
+    "Careful Aim"
+  ],
+  "ITEM_EFFECT_RELOADING_WHIZZ": [
+    "Reloading Whizz",
+    "Quick Hands",
+    "Swift Reload",
+    "Fast Draw",
+    "Rapid Chamber"
+  ],
+  "ITEM_EFFECT_WHIPLASH": [
+    "Whiplash",
+    "Speed Burst",
+    "Velocity Shot",
+    "Rapid Bolt",
+    "Snapfire"
+  ],
+  "ITEM_EFFECT_SLOW_MOTION": [
+    "Slow Motion",
+    "Drifting Shot",
+    "Slumber Shot",
+    "Dragged Bullet",
+    "Slow Shot"
+  ],
+  "ITEM_EFFECT_EXPLOSIVE": [
+    "Explosive",
+    "Blast Rounds",
+    "Boomshot",
+    "Detonator",
+    "Impact Burst"
+  ],
+  "ITEM_EFFECT_BLOOD_AMMO": [
+    "Blood Ammo",
+    "Lifeshot",
+    "Crimson Rounds",
+    "Vital Load",
+    "Sapping Shot"
+  ],
+  "ITEM_EFFECT_MAGNETIC_PULL": [
+    "Magnetic Pull",
+    "Magnetised Shot",
+    "Pullforce",
+    "Drawbolt",
+    "Pulling Well"
+  ],
+  "ITEM_EFFECT_RICOCHET_CHAIN": [
+    "Ricochet Chain",
+    "Chain Bounce",
+    "Split Shot",
+    "Bouncefire",
+    "Linked Shot"
+  ],
+  "ITEM_EFFECT_SLOPPY_SHOT": [
+    "Sloppy Shot",
+    "Wildfire",
+    "Reckless Round",
+    "Unsteady Shot",
+    "Dicefire"
+  ],
+  "ITEM_EFFECT_TAUNTING_CRIT": [
+    "Taunting Crit",
+    "Provoker",
+    "Baitshot",
+    "Aggro Crit",
+    "Mocking Strike"
+  ],
+  "ITEM_EFFECT_CURSED": [
+    "Cursed",
+    "Hex Bound",
+    "Forsaken Shot",
+    "Taintfire",
+    "Malice",
+    "Hated"
+  ],
+  "ITEM_EFFECT_STACKING_POWER": [
+    "Crit Boosting",
+    "Stacking Power",
+    "Incremental",
+    "Multiplier"
+  ],
+  "ITEM_EFFECT_HEARTSHOCK": [
+    "Heartshock",
+    "Evisceration",
+    "Heart attack",
+    "Coup de Grâce",
+    "Ending",
+    "Finale"
+  ],
+  "ITEM_TRINKET_SPEEDY": [
+    "Speedy",
+    "Quickstep",
+    "Swiftstride",
+    "Hasty"
+  ],
+  "ITEM_TRINKET_FAST_RETURN": [
+    "Fast Return",
+    "Quick Respawn",
+    "Rapid Comeback"
+  ],
+  "ITEM_TRINKET_STAY_CONNECTED": [
+    "Stay Connected",
+    "Linked Strike",
+    "Teamwork"
+  ],
+  "ITEM_TRINKET_TURRET_FIEND": [
+    "Turret Fiend",
+    "Hostile Ally",
+    "Dangerous Companion"
+  ],
+  "ITEM_TRINKET_TURRETS_FRIEND": [
+    "Turret's Friend",
+    "Mechanical Ally",
+    "Turret Buddy"
+  ],
+  "ITEM_TRINKET_HEAL_AURA": [
+    "Heal Aura",
+    "Soothing Presence",
+    "Restorative Field"
+  ],
+  "ITEM_TRINKET_HEALTH_STEAL": [
+    "Health Steal",
+    "Life Tap",
+    "Vampiric Strike"
+  ],
+  "ITEM_TRINKET_SLOW_FIELD": [
+    "Slow Field",
+    "Time Distorter",
+    "Time Slower"
+  ],
+  "ITEM_TRINKET_WEALTHY": [
+    "Wealthy",
+    "Riches",
+    "Golden Touch"
+  ],
+  "ITEM_TRINKET_LUCKY": [
+    "Lucky",
+    "Fortune",
+    "Serendipity"
+  ],
+  "ITEM_TRINKET_LOOTER": [
+    "Looter",
+    "Treasure Hunter",
+    "Scavenging"
+  ],
+  "ITEM_TRINKET_RANDOMISER": [
+    "Randomiser",
+    "Erratic",
+    "Chaos Weapon",
+    "Unpredictable"
+  ],
+  "ITEM_TRINKET_ARMOUR_BOOSTER": [
+    "Armour Booster",
+    "Protective Enhancer"
+  ],
+  "ITEM_TRINKET_AQUAFINITY": [
+    "Aquafinity",
+    "Liquid Speed",
+    "Waterborne"
+  ],
+  "ITEM_TRINKET_DAMAGE_ZONE": [
+    "Damage Zone",
+    "Hazard Field"
+  ],
+  "ITEM_TRINKET_HATCHER": [
+    "Hatcher",
+    "Egg Laying",
+    "Companion Spawning"
+  ],
+  "ITEM_TRINKET_GRAVE_REVENGE": [
+    "Grave Revenge",
+    "Spectral Return"
+  ],
+  "ITEM_TRINKET_SPECTRAL_TWIN": [
+    "Spectral Twin",
+    "Mirror Image",
+    "Ghostly Copy"
+  ],
+  "ITEM_TRINKET_SHIELD_HERO": [
+    "Shield Hero",
+    "Protective Conversion",
+    "Glass Cannon"
+  ],
+  "ITEM_ARMOUR_LIGHTWEIGHT": [
+    "Lightweight",
+    "Feathered",
+    "Nimble"
+  ],
+  "ITEM_ARMOUR_SLOWING": [
+    "Slowing",
+    "Heavy",
+    "Cumbersome"
+  ],
+  "ITEM_ARMOUR_REVENGE": [
+    "Revenge",
+    "Vengeful",
+    "Retaliatory"
+  ],
+  "ITEM_ARMOUR_CEMENTED": [
+    "Cemented",
+    "Rooted",
+    "Immovable"
+  ],
+  "ITEM_ARMOUR_MULTI_JUMP": [
+    "Multi-Jump",
+    "Acrobatic",
+    "Springy"
+  ],
+  "ITEM_ARMOUR_REGENERATION": [
+    "Regeneration",
+    "Healing Aura",
+    "Reviving"
+  ],
+  "ITEM_ARMOUR_DEFENSIVE_BOOSTER": [
+    "Defensive Booster",
+    "Protecting",
+    "Protector"
+  ],
+  "ITEM_ARMOUR_STATUS_BOOST": [
+    "Status Boost",
+    "Enhanced Effects",
+    "Augmented"
+  ],
+  "ITEM_ARMOUR_STATUS_REJECT": [
+    "Status Reject",
+    "Purged",
+    "Cleansed"
+  ],
+  "ITEM_ARMOUR_TRINKET_BOOSTER": [
+    "Trinket Booster",
+    "Accessory Enhancer"
+  ],
+  "ITEM_ARMOUR_STATUE": [
+    "Statue",
+    "Immobile Power",
+    "Stiff Strength",
+    "Noble Defence"
+  ],
+  "ITEM_ARMOUR_KINETIC_RESERVE": [
+    "Kinetic Reserve",
+    "Power Stored",
+    "Charged",
+    "Momentum"
+  ],
+  "ITEM_ARMOUR_AGGRESSIVE_DEATH": [
+    "Aggressive Death",
+    "Feral End",
+    "Berserker Last Stand"
+  ],
+  "ITEM_ARMOUR_SHARED_PAIN": [
+    "Shared Pain",
+    "Sympathy Strike",
+    "Mutual Agony"
+  ],
+  "ITEM_ARMOUR_ARMOUR_SHIFT": [
+    "Armour Shift",
+    "Dynamic Guard",
+    "Move Protection"
+  ]
+}
