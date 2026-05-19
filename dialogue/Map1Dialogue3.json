@@ -4,11 +4,11 @@
             "speakerId": "Maisie",
             "textTranslations": [
                 { "language": "en", "text": "Okay that didn't go very well did it?" },
-                { "language": "es", "text": "¡Buen trabajo! {time}, lo he anotado en tu expediente. Espero que no te hayas torcido nada porque estamos lejos de terminar." },
-                { "language": "jp", "text": "よくやったわ！{time}、記録に残しておいたわよ。まだまだ終わりじゃないから、捻挫してないといいけど。" },
-                { "language": "fr", "text": "Bien joué ! {time}, je l'ai noté dans ton dossier. J'espère que tu ne t'es rien foulé, parce qu'on est loin d'avoir terminé." },
-                { "language": "de", "text": "Gute Arbeit! {time}, ich habe es in deiner Akte vermerkt. Hoffentlich hast du dir nichts verstaucht, denn wir sind noch lange nicht fertig." },
-                { "language": "cn", "text": "干得好！{time}，我已经记录在你的档案里了。希望你没有扭到什么，因为我们还远远没有结束。" }
+                { "language": "es", "text": "Vaya, eso no fue muy bien, ¿verdad?" },
+                { "language": "jp", "text": "うーん、あまりうまくいかなかったわね。" },
+                { "language": "fr", "text": "Bon, ça ne s'est pas très bien passé, n'est-ce pas ?" },
+                { "language": "de", "text": "Okay, das lief nicht gerade gut, oder?" },
+                { "language": "cn", "text": "好吧，那进行得不太顺利，是吧？" }
             ],
             "position": "right",
             "animation": "player_wave"
@@ -16,12 +16,12 @@
         {
             "speakerId": "Maisie",
             "textTranslations": [
-                { "language": "en", "text": "A lot more than the company is relying on you {playername}, if anything gets through we're in trouble."},
-                { "language": "es", "text": "Antes de llegar a la parte peligrosa, echemos un vistazo rápido a la información que ofrecemos para ayudarte." },
-                { "language": "jp", "text": "危険なパートに入る前に、サポートのために提供している情報を簡単に確認しましょう。" },
-                { "language": "fr", "text": "Avant d'en arriver à la partie dangereuse, jetons un coup d'œil rapide aux informations que nous fournissons pour t'aider." },
-                { "language": "de", "text": "Bevor wir zum gefährlichen Teil kommen, schauen wir uns kurz die Informationen an, die wir dir zur Verfügung stellen." },
-                { "language": "cn", "text": "在进入危险部分之前，让我们快速浏览一下我们为你提供的辅助信息。" }
+                { "language": "en", "text": "A lot more than the company is relying on you {playername}, if anything gets through we're in trouble." },
+                { "language": "es", "text": "Mucho más que la empresa depende de ti {playername}, si algo pasa nos meteremos en problemas." },
+                { "language": "jp", "text": "会社だけじゃなく、もっと多くのものがあなたにかかってるの、{playername}。何か通り抜けたら大変なことになるわ。" },
+                { "language": "fr", "text": "Bien plus que l'entreprise compte sur toi {playername}, si quoi que ce soit passe on aura de gros problèmes." },
+                { "language": "de", "text": "Viel mehr als nur das Unternehmen verlässt sich auf dich {playername}, wenn irgendetwas durchkommt, sind wir in Schwierigkeiten." },
+                { "language": "cn", "text": "依赖你的不只是公司，{playername}，如果有任何东西漏网了我们就麻烦了。" }
             ],
             "position": "right",
             "animation": "player_talking"
@@ -29,12 +29,12 @@
         {
             "speakerId": "Maisie",
             "textTranslations": [
-                { "language": "en", "text": "There are worse things down there than this, so this is where our platforms and turrets come in handy."},
-                { "language": "es", "text": "Primero tenemos el P.A.D, esto te informará sobre peligros o información crítica de la misión." },
-                { "language": "jp", "text": "まずP.A.D.があるわ。これは危険や任務に重要な情報を知らせてくれるものよ。" },
-                { "language": "fr", "text": "Nous avons d'abord le P.A.D, qui t'informera des dangers ou des informations critiques pour la mission." },
-                { "language": "de", "text": "Zuerst haben wir das P.A.D, das dich über Gefahren oder missionskritische Informationen informiert." },
-                { "language": "cn", "text": "首先是P.A.D,它会向你提示危险或任务关键信息。" }
+                { "language": "en", "text": "There are worse things down there than this, so this is where our platforms and turrets come in handy." },
+                { "language": "es", "text": "Hay cosas peores ahí abajo que esto, así que aquí es donde nuestras plataformas y torretas resultan útiles." },
+                { "language": "jp", "text": "下にはこれよりもっとひどいものがいるから、そこでプラットフォームとタレットが役に立つのよ。" },
+                { "language": "fr", "text": "Il y a pire que ça là-dessous, c'est là que nos plateformes et tourelles s'avèrent utiles." },
+                { "language": "de", "text": "Da unten gibt es Schlimmeres als das, deshalb sind unsere Plattformen und Türme so praktisch." },
+                { "language": "cn", "text": "下面有比这更糟糕的东西，所以这正是我们的平台和炮塔派上用场的地方。" }
             ],
             "position": "right",
             "animation": "player_talking"
@@ -43,11 +43,11 @@
             "speakerId": "Maisie",
             "textTranslations": [
                 { "language": "en", "text": "Place some platforms ({input.platform}) in a way that makes the Biosphere harder to reach, Then on top of those place some gun turrets ({input.turret}) to help you." },
-                { "language": "es", "text": "Aquí, en el lado derecho, tenemos información sobre tu misión." },
-                { "language": "jp", "text": "右側にはあなたのミッションに関する情報があるわ。" },
-                { "language": "fr", "text": "Ici, sur le côté droit, nous avons des informations sur ta mission." },
-                { "language": "de", "text": "Hier auf der rechten Seite haben wir Informationen zu deiner Mission." },
-                { "language": "cn", "text": "右侧这里显示的是你的任务信息。" }
+                { "language": "es", "text": "Coloca algunas plataformas ({input.platform}) de forma que la Biosfera sea más difícil de alcanzar, luego encima de esas coloca algunas torretas ({input.turret}) para ayudarte." },
+                { "language": "jp", "text": "プラットフォーム（{input.platform}）をバイオスフィアに近づきにくい配置で置いて、その上に砲台タレット（{input.turret}）を設置して助けてもらってね。" },
+                { "language": "fr", "text": "Place des plateformes ({input.platform}) de manière à rendre la Biosphère plus difficile à atteindre, puis par-dessus place des tourelles ({input.turret}) pour t'aider." },
+                { "language": "de", "text": "Platziere einige Plattformen ({input.platform}) so, dass die Biosphäre schwerer erreichbar wird, und stelle dann darauf einige Geschütztürme ({input.turret}) auf, die dir helfen." },
+                { "language": "cn", "text": "放置一些平台（{input.platform}）使生物圈更难被到达，然后在上面放置一些炮塔（{input.turret}）来帮助你。" }
             ],
             "position": "right",
             "animation": "player_talking"
@@ -55,12 +55,12 @@
         {
             "speakerId": "Maisie",
             "textTranslations": [
-                { "language": "en", "text": "Note that they can only be request in the specified \"Build Zones\"."},
-                { "language": "es", "text": "Y aquí abajo están tus estadísticas vitales. Aunque haremos todo lo posible por mantenerte con vida, lo ideal sería evitar que te lastimes." },
-                { "language": "jp", "text": "そしてここ下にあるのはあなたのバイタル情報よ。死なないように最善を尽くすけど、怪我はできれば避けてほしいわ。" },
-                { "language": "fr", "text": "Et en bas, vous avez vos statistiques vitales. Nous ferons de notre mieux pour vous éviter de mourir, mais il vaut mieux éviter de se blesser." },
-                { "language": "de", "text": "Und hier unten sind deine Vitalwerte. Wir werden unser Bestes tun, um dich am Leben zu halten, aber Verletzungen sollten möglichst vermieden werden." },
-                { "language": "cn", "text": "下面这里是你的生命体征。我们会尽力让你不死，但最好还是避免受伤。" }
+                { "language": "en", "text": "Note that they can only be request in the specified \"Build Zones\"." },
+                { "language": "es", "text": "Ten en cuenta que solo se pueden solicitar en las \"Zonas de Construcción\" especificadas." },
+                { "language": "jp", "text": "指定された「建設ゾーン」でのみリクエストできることに注意してね。" },
+                { "language": "fr", "text": "Note qu'elles ne peuvent être demandées que dans les \"Zones de Construction\" spécifiées." },
+                { "language": "de", "text": "Beachte, dass sie nur in den angegebenen \"Bauzonen\" angefordert werden können." },
+                { "language": "cn", "text": "请注意，它们只能在指定的\"建造区域\"内申请。" }
             ],
             "position": "right",
             "animation": "player_talking"

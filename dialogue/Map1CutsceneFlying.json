@@ -3,12 +3,12 @@
         {
             "speakerId": "Maisie",
             "textTranslations": [
-                { "language": "en", "text": "This right here is one of our Angelorum spec prototypes,  there's not really much use for them currently so we send them down here to hit about." },
-                { "language": "es", "text": "¡Mucho mejor! Pero no puedes esperar que siempre vengan del mismo lugar; nunca se sabe por qué huecos podrían colarse." },
-                { "language": "jp", "text": "ずっと良くなったわ！でも、いつも同じ場所から来ると思っちゃだめよ。どんな隙間から忍び込んでくるか分からないんだから。" },
-                { "language": "fr", "text": "Beaucoup mieux ! Mais tu ne peux pas t'attendre à ce qu'ils arrivent toujours du même endroit ; on ne sait jamais par quelles brèches ils pourraient passer." },
-                { "language": "de", "text": "Viel besser! Aber du kannst nicht erwarten, dass sie immer vom selben Ort kommen - man weiß nie, durch welche Lücken sie sich schleichen." },
-                { "language": "cn", "text": "好多了！但你不能指望他们总是从同一个地方出现，他们可能会从任何缝隙中钻出来。" }
+                { "language": "en", "text": "This right here is one of our Angelorum spec prototypes, there's not really much use for them currently so we send them down here to hit about." },
+                { "language": "es", "text": "Este de aquí es uno de nuestros prototipos de especificación Angelorum, actualmente no tienen mucho uso así que los mandamos aquí abajo para que se den golpes." },
+                { "language": "jp", "text": "これは私たちのアンジェロラム仕様のプロトタイプのひとつよ。今のところあまり使い道がないから、ここに送り込んで暴れさせてるの。" },
+                { "language": "fr", "text": "Celui-ci est l'un de nos prototypes de spécification Angelorum, ils n'ont pas vraiment d'utilité pour le moment alors on les envoie ici pour qu'ils tapent dans tous les sens." },
+                { "language": "de", "text": "Das hier ist eines unserer Angelorum-Spezifikationsprototypen, im Moment haben wir nicht wirklich viel Verwendung dafür, also schicken wir sie hier runter zum Herumschlagen." },
+                { "language": "cn", "text": "这是我们的一个Angelorum规格原型,目前没什么用处,所以我们把它们送到这里来打打闹闹。" }
             ],
             "position": "right",
             "animation": "player_wave"
@@ -16,12 +16,12 @@
         {
             "speakerId": "Maisie",
             "textTranslations": [
-                { "language": "en", "text": "Since it can fly, it can ignore your platforms, so keep an eye on the skies for anything sneaking past."},
-                { "language": "es", "text": "Esta vez saldrán de dos lugares distintos, ¿crees que podrás manejarlo?" },
-                { "language": "jp", "text": "今回は二か所から現れるわ。対応できると思う？" },
-                { "language": "fr", "text": "Cette fois, ils sortiront de deux endroits différents. Tu penses pouvoir gérer ça ?" },
-                { "language": "de", "text": "Diesmal werden sie aus zwei verschiedenen Orten kommen. Meinst du, du schaffst das?" },
-                { "language": "cn", "text": "这次他们会从两个地方出现，你觉得能应付得了吗？" }
+                { "language": "en", "text": "Since it can fly, it can ignore your platforms, so keep an eye on the skies for anything sneaking past." },
+                { "language": "es", "text": "Como puede volar, puede ignorar tus plataformas, así que mantén un ojo en el cielo por si algo se cuela." },
+                { "language": "jp", "text": "飛べるから、あなたのプラットフォームを無視できるの。だから、何かが忍び込んでいないか空を見張っておいてね。" },
+                { "language": "fr", "text": "Comme il peut voler, il peut ignorer tes plateformes, alors garde un œil sur le ciel pour repérer ce qui pourrait passer en douce." },
+                { "language": "de", "text": "Da es fliegen kann, kann es deine Plattformen ignorieren, also halte den Himmel im Auge, falls sich etwas vorbeischleicht." },
+                { "language": "cn", "text": "因为它能飞，所以可以无视你的平台，注意观察天空，提防有什么东西悄悄溜过去。" }
             ],
             "position": "right",
             "animation": "player_talking"
@@ -29,12 +29,12 @@
         {
             "speakerId": "Maisie",
             "textTranslations": [
-                { "language": "en", "text": "Most turrets will be able to hit them, but there's some that do it better than others."},
-                { "language": "es", "text": "Esta vez saldrán de dos lugares distintos, ¿crees que podrás manejarlo?" },
-                { "language": "jp", "text": "今回は二か所から現れるわ。対応できると思う？" },
-                { "language": "fr", "text": "Cette fois, ils sortiront de deux endroits différents. Tu penses pouvoir gérer ça ?" },
-                { "language": "de", "text": "Diesmal werden sie aus zwei verschiedenen Orten kommen. Meinst du, du schaffst das?" },
-                { "language": "cn", "text": "这次他们会从两个地方出现，你觉得能应付得了吗？" }
+                { "language": "en", "text": "Most turrets will be able to hit them, but there's some that do it better than others." },
+                { "language": "es", "text": "La mayoría de las torretas podrán alcanzarlos, pero algunas lo hacen mejor que otras." },
+                { "language": "jp", "text": "ほとんどのタレットは当てられるけど、他より得意なものもあるわ。" },
+                { "language": "fr", "text": "La plupart des tourelles pourront les toucher, mais certaines le font mieux que d'autres." },
+                { "language": "de", "text": "Die meisten Türme werden sie treffen können, aber manche machen es besser als andere." },
+                { "language": "cn", "text": "大多数炮塔都能打到它们，但有些比其他的更擅长。" }
             ],
             "position": "right",
             "animation": "player_talking"

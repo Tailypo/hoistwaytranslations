@@ -71,16 +71,13 @@
             "speakerId": "playername",
             "textTranslations": [
                 { 
-                    "language": "en", 
-                    "text": "This dialogue shows the player's name and model!" 
+                    "language": "en", "text": "This dialogue shows the player's name and model!" 
                 },
                 { 
-                    "language": "es", 
-                    "text": "This dialogue shows the player's name and model!" 
+                    "language": "es", "text": "This dialogue shows the player's name and model!" 
                 },
                 { 
-                    "language": "jp", 
-                    "text": "This dialogue shows the player's name and model!" 
+                    "language": "jp", "text": "This dialogue shows the player's name and model!" 
                 }
             ],
             "position": "right",

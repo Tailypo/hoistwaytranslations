@@ -16,7 +16,10 @@
             "nameTranslations": [
                 { "language": "en", "name": "Alice" },
                 { "language": "es", "name": "Alicia" },
-                { "language": "jp", "name": "アリス" }
+                { "language": "jp", "name": "アリス" },
+                { "language": "fr", "name": "Alice" },
+                { "language": "de", "name": "Alice" },
+                { "language": "cn", "name": "爱丽丝" }
             ]
         },
         {
@@ -24,7 +27,10 @@
             "nameTranslations": [
                 { "language": "en", "name": "Bob" },
                 { "language": "es", "name": "Roberto" },
-                { "language": "jp", "name": "ボブ" }
+                { "language": "jp", "name": "ボブ" },
+                { "language": "fr", "name": "Bob" },
+                { "language": "de", "name": "Bob" },
+                { "language": "cn", "name": "鲍勃" }
             ]
         },
         {

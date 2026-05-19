@@ -3,12 +3,12 @@
         {
             "speakerId": "Maisie",
             "textTranslations": [
-                { "language": "en", "text": "Hello out there! Welcome to the training course! It's going to take a bit to get through, but it's mandatory for legal reasons I'm afraid." },
-                { "language": "es", "text": "¡Hola a todos! ¡Bienvenidos al curso de formación! Va a llevar un poco de tiempo completarlo, pero me temo que es obligatorio por razones legales." },
-                { "language": "jp", "text": "こんにちは！トレーニングコースへようこそ！少し時間がかかりますが、残念ながら法的な理由で必須となっています。" },
-                { "language": "fr", "text": "Bonjour à tous ! Bienvenue au cours de formation ! Ça prendra un peu de temps, mais c'est obligatoire pour des raisons légales, j'en ai bien peur." },
-                { "language": "de", "text": "Hallo zusammen! Willkommen beim Trainingskurs! Es wird etwas Zeit in Anspruch nehmen, aber er ist leider aus rechtlichen Gründen verpflichtend." },
-                { "language": "cn", "text": "大家好！欢迎参加培训课程！完成课程需要一点时间，但遗憾的是，出于法律原因这是强制性的。" }
+                { "language": "en", "text": "Hello out there! Welcome to the training course! It's going to take a bit to get through, but it's mandatory for training records I'm afraid." },
+                { "language": "es", "text": "¡Hola a todos! ¡Bienvenidos al curso de formación! Va a llevar un poco de tiempo completarlo, pero me temo que es obligatorio para los registros de formación." },
+                { "language": "jp", "text": "こんにちは！トレーニングコースへようこそ！少し時間がかかりますが、残念ながらトレーニング記録のために必須となっています。" },
+                { "language": "fr", "text": "Bonjour à tous ! Bienvenue au cours de formation ! Ça prendra un peu de temps, mais c'est obligatoire pour les dossiers de formation, j'en ai bien peur." },
+                { "language": "de", "text": "Hallo zusammen! Willkommen beim Trainingskurs! Es wird etwas Zeit in Anspruch nehmen, aber er ist leider für die Trainingsaufzeichnungen verpflichtend." },
+                { "language": "cn", "text": "大家好！欢迎参加培训课程！完成课程需要一点时间，但遗憾的是，这是培训记录的强制要求。" }
             ],
             "position": "right",
             "animation": "player_wave",
@@ -17,7 +17,7 @@
         {
             "speakerId": "Maisie",
             "textTranslations": [
-                { "language": "en", "text": "First I need to rate your ability to move. Make your way through the course and hit the button at the end."},
+                { "language": "en", "text": "First I need to rate your ability to move. Make your way through the course and hit the button at the end." },
                 { "language": "es", "text": "Primero necesito evaluar tu capacidad de movimiento. Avanza por el recorrido y pulsa el botón al final." },
                 { "language": "jp", "text": "まずはあなたの移動能力を評価する必要があります。コースを進んで、最後のボタンを押してください。" },
                 { "language": "fr", "text": "Je dois d'abord évaluer ta capacité à te déplacer. Parcours le circuit et appuie sur le bouton à la fin." },

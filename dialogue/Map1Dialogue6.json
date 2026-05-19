@@ -4,11 +4,11 @@
             "speakerId": "Maisie",
             "textTranslations": [
                 { "language": "en", "text": "That's all I've got you for here, I'm passing you on to a colleague for your next test." },
-                { "language": "es", "text": "¡Lo estás haciendo bien para ser novato, algunos ni siquiera llegan tan lejos!" },
-                { "language": "jp", "text": "新人にしてはよくやってるわね。ここまで来られない人も多いのよ！" },
-                { "language": "fr", "text": "Tu t'en sors bien pour un débutant, certains n'arrivent même pas jusque-là !" },
-                { "language": "de", "text": "Für einen Neuling machst du dich richtig gut, manche schaffen es gar nicht erst so weit!" },
-                { "language": "cn", "text": "你这个新手表现得不错，有些人根本坚持不到这一步！" }
+                { "language": "es", "text": "Eso es todo lo que tengo para ti aquí, te paso a un colega para tu próxima prueba." },
+                { "language": "jp", "text": "ここでの私の担当はここまでよ。次のテストは同僚に引き継ぐわ。" },
+                { "language": "fr", "text": "C'est tout ce que j'avais pour toi ici, je te passe à un collègue pour ton prochain test." },
+                { "language": "de", "text": "Das ist alles, was ich hier für dich hatte, ich übergebe dich für deinen nächsten Test an einen Kollegen." },
+                { "language": "cn", "text": "我这里的任务到此结束了，接下来的测试会由我的同事来负责。" }
             ],
             "position": "right",
             "animation": "player_wave"
@@ -17,11 +17,11 @@
             "speakerId": "Maisie",
             "textTranslations": [
                 { "language": "en", "text": "We have some shifts together coming up, so you'll see me once you're down there." },
-                { "language": "es", "text": "He abierto una puerta para ti que te llevará a algunos objetos, los necesitarás para sobrevivir a tu prueba final." },
-                { "language": "jp", "text": "アイテムのある場所へ通じる扉を開けておいたわ。最後の試練を生き残るにはそれが必要になるからね。" },
-                { "language": "fr", "text": "J'ai ouvert une porte qui te mènera à quelques objets, tu en auras besoin pour survivre à ton épreuve finale." },
-                { "language": "de", "text": "Ich habe eine Tür für dich geöffnet, die dich zu einigen Gegenständen führt. Du wirst sie brauchen, um deine letzte Prüfung zu überstehen." },
-                { "language": "cn", "text": "我为你打开了一扇门，里面有一些物品，你需要它们才能在最后的考验中生存下来。" }
+                { "language": "es", "text": "Tenemos algunos turnos juntos próximamente, así que me verás una vez que estés allí abajo." },
+                { "language": "jp", "text": "もうすぐ一緒のシフトがあるから、あなたが下に降りたら会えるわよ。" },
+                { "language": "fr", "text": "On a quelques shifts ensemble qui arrivent, donc tu me verras une fois que tu seras là-bas." },
+                { "language": "de", "text": "Wir haben demnächst ein paar gemeinsame Schichten, also wirst du mich sehen, sobald du da unten bist." },
+                { "language": "cn", "text": "我们接下来有几个班次一起排班，所以等你到了那里就能见到我。" }
             ],
             "position": "right",
             "animation": "player_talking"
@@ -30,11 +30,11 @@
             "speakerId": "Maisie",
             "textTranslations": [
                 { "language": "en", "text": "When you're ready to leave, the elevator will take you to your next destination. The light will turn green when you have permission to use it." },
-                { "language": "es", "text": "Solo para recordarte: cualquier cosa que encuentres, equipo u otra cosa, allí abajo en las cavernas nos pertenece, tal como se acordó en tu contrato." },
-                { "language": "jp", "text": "念のため言っておくけど、洞窟の下で見つけたものは、装備であれその他のものであれ、契約で合意された通りすべて私たちのものだ。" },
-                { "language": "fr", "text": "Juste pour te rappeler que tout ce que tu trouveras, équipement ou autre, là-dessous dans les cavernes nous appartient, comme convenu dans ton contrat." },
-                { "language": "de", "text": "Nur zur Erinnerung: Alles, was du dort unten in den Kavernen findest, Ausrüstung oder anderes, gehört uns, wie in deinem Vertrag vereinbart." },
-                { "language": "cn", "text": "只是提醒你一下，你在洞穴下面找到的任何东西，无论是装备还是其他，都属于我们，正如你的合同中所约定的那样。" }
+                { "language": "es", "text": "Cuando estés listo para irte, el ascensor te llevará a tu próximo destino. La luz se pondrá verde cuando tengas permiso para usarlo." },
+                { "language": "jp", "text": "出発する準備ができたら、エレベーターが次の目的地まで連れて行ってくれるわ。使用許可が出たらライトが緑に変わるから。" },
+                { "language": "fr", "text": "Quand tu es prêt à partir, l'ascenseur t'emmènera à ta prochaine destination. La lumière deviendra verte quand tu auras la permission de l'utiliser." },
+                { "language": "de", "text": "Wenn du bereit bist zu gehen, bringt dich der Aufzug zu deinem nächsten Ziel. Das Licht wird grün, wenn du die Erlaubnis hast, ihn zu benutzen." },
+                { "language": "cn", "text": "当你准备好离开时，电梯会带你前往下一个目的地。当你获得使用许可时，指示灯会变绿。" }
             ],
             "position": "right",
             "animation": "player_talking"

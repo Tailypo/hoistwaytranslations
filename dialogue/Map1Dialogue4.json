@@ -16,12 +16,12 @@
         {
             "speakerId": "Maisie",
             "textTranslations": [
-                { "language": "en", "text": "I found a creature in my lunch box once, and Lister claims to have one stalking him. You'll have time to ask him about that later if you want, he never shuts up about it."},
-                { "language": "es", "text": "Esta vez saldrán de dos lugares distintos, ¿crees que podrás manejarlo?" },
-                { "language": "jp", "text": "今回は二か所から現れるわ。対応できると思う？" },
-                { "language": "fr", "text": "Cette fois, ils sortiront de deux endroits différents. Tu penses pouvoir gérer ça ?" },
-                { "language": "de", "text": "Diesmal werden sie aus zwei verschiedenen Orten kommen. Meinst du, du schaffst das?" },
-                { "language": "cn", "text": "这次他们会从两个地方出现，你觉得能应付得了吗？" }
+                { "language": "en", "text": "I found a creature in my lunch box once, and Lister claims to have one stalking him. You'll have time to ask him about that later if you want, he never shuts up about it." },
+                { "language": "es", "text": "Una vez encontré una criatura en mi fiambrera, y Lister dice que uno lo está acechando. Tendrás tiempo de preguntarle sobre eso después si quieres, nunca para de hablar de ello." },
+                { "language": "jp", "text": "昔お弁当箱の中に生き物を見つけたことがあってね、リスターは自分をつけ回してるやつがいるって言ってるの。後で聞いてみてもいいわよ、その話になったら止まらないから。" },
+                { "language": "fr", "text": "J'ai trouvé une créature dans ma boîte à lunch une fois, et Lister prétend qu'il en a une qui le suit. Tu auras le temps de lui demander ça plus tard si tu veux, il n'arrête jamais d'en parler." },
+                { "language": "de", "text": "Ich habe einmal eine Kreatur in meiner Lunchbox gefunden, und Lister behauptet, dass ihn eine verfolgt. Du wirst später Zeit haben, ihn danach zu fragen, wenn du willst, er hört nie auf davon zu reden." },
+                { "language": "cn", "text": "我有一次在饭盒里发现了一只生物，利斯特说有一只在跟踪他。如果你想的话，之后会有时间问他，他说起这个就没完没了。" }
             ],
             "position": "right",
             "animation": "player_talking"
@@ -29,7 +29,7 @@
         {
             "speakerId": "Maisie",
             "textTranslations": [
-                { "language": "en", "text": "This time I'll be releasing them from two locations, think you can handle it?"},
+                { "language": "en", "text": "This time I'll be releasing them from two locations, think you can handle it?" },
                 { "language": "es", "text": "Esta vez saldrán de dos lugares distintos, ¿crees que podrás manejarlo?" },
                 { "language": "jp", "text": "今回は二か所から現れるわ。対応できると思う？" },
                 { "language": "fr", "text": "Cette fois, ils sortiront de deux endroits différents. Tu penses pouvoir gérer ça ?" },
