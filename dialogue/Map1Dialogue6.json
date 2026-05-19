@@ -3,7 +3,7 @@
         {
             "speakerId": "Maisie",
             "textTranslations": [
-                { "language": "en", "text": "You're doing well so far! Things will get harder once you're down there though." },
+                { "language": "en", "text": "That's all I've got you for here, I'm passing you on to a colleague for your next test." },
                 { "language": "es", "text": "¡Lo estás haciendo bien para ser novato, algunos ni siquiera llegan tan lejos!" },
                 { "language": "jp", "text": "新人にしてはよくやってるわね。ここまで来られない人も多いのよ！" },
                 { "language": "fr", "text": "Tu t'en sors bien pour un débutant, certains n'arrivent même pas jusque-là !" },
@@ -16,7 +16,7 @@
         {
             "speakerId": "Maisie",
             "textTranslations": [
-                { "language": "en", "text": "I've opened the laboratory door for you so you can take some gear, you'll need it to survive your final test."},
+                { "language": "en", "text": "We have some shifts together coming up, so you'll see me once you're down there." },
                 { "language": "es", "text": "He abierto una puerta para ti que te llevará a algunos objetos, los necesitarás para sobrevivir a tu prueba final." },
                 { "language": "jp", "text": "アイテムのある場所へ通じる扉を開けておいたわ。最後の試練を生き残るにはそれが必要になるからね。" },
                 { "language": "fr", "text": "J'ai ouvert une porte qui te mènera à quelques objets, tu en auras besoin pour survivre à ton épreuve finale." },
@@ -29,20 +29,7 @@
         {
             "speakerId": "Maisie",
             "textTranslations": [
-                { "language": "en", "text": "Whatever you get in there, equip it the same way as the gun ({input.inventory}). There's a lot of possibilities for what you might find, so keep hold of them." },
-                { "language": "es", "text": "Solo para recordarte: cualquier cosa que encuentres, equipo u otra cosa, allí abajo en las cavernas nos pertenece, tal como se acordó en tu contrato." },
-                { "language": "jp", "text": "念のため言っておくけど、洞窟の下で見つけたものは、装備であれその他のものであれ、契約で合意された通りすべて私たちのものだ。" },
-                { "language": "fr", "text": "Juste pour te rappeler que tout ce que tu trouveras, équipement ou autre, là-dessous dans les cavernes nous appartient, comme convenu dans ton contrat." },
-                { "language": "de", "text": "Nur zur Erinnerung: Alles, was du dort unten in den Kavernen findest, Ausrüstung oder anderes, gehört uns, wie in deinem Vertrag vereinbart." },
-                { "language": "cn", "text": "只是提醒你一下，你在洞穴下面找到的任何东西，无论是装备还是其他，都属于我们，正如你的合同中所约定的那样。" }
-            ],
-            "position": "right",
-            "animation": "player_talking"
-        },
-        {
-            "speakerId": "Maisie",
-            "textTranslations": [
-                { "language": "en", "text": "Just to read the fine print here, anything, equipment or otherwise that you find down there belongs to the Sun Corporation, as was agreed in your contract." },
+                { "language": "en", "text": "When you're ready to leave, the elevator will take you to your next destination. The light will turn green when you have permission to use it." },
                 { "language": "es", "text": "Solo para recordarte: cualquier cosa que encuentres, equipo u otra cosa, allí abajo en las cavernas nos pertenece, tal como se acordó en tu contrato." },
                 { "language": "jp", "text": "念のため言っておくけど、洞窟の下で見つけたものは、装備であれその他のものであれ、契約で合意された通りすべて私たちのものだ。" },
                 { "language": "fr", "text": "Juste pour te rappeler que tout ce que tu trouveras, équipement ou autre, là-dessous dans les cavernes nous appartient, comme convenu dans ton contrat." },

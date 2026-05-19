@@ -1,38 +1,14 @@
 {
-    "characters": [
-        {
-            "id": "Maisie",
-            "nameTranslations": [
-                { "language": "en", "name": "Maisie" },
-                { "language": "es", "name": "Maisie" },
-                { "language": "jp", "name": "メイジー" },
-                { "language": "fr", "name": "Maisie" },
-                { "language": "de", "name": "Maisie" },
-                { "language": "cn", "name": "梅西" }
-            ]
-        },
-        {
-            "id": "playername",
-            "nameTranslations": [
-                { "language": "en", "name": "playername" },
-                { "language": "es", "name": "playername" },
-                { "language": "jp", "name": "playername" },
-                { "language": "fr", "name": "playername" },
-                { "language": "de", "name": "playername" },
-                { "language": "cn", "name": "playername" }
-            ]
-        }
-    ],
     "dialogue": [
         {
             "speakerId": "Maisie",
             "textTranslations": [
-                { "language": "en", "text": "Much better! But you can't expect them to always come from the same place, you can never guess the gaps they might sneak through." },
-                { "language": "es", "text": "¡Mucho mejor! Pero no puedes esperar que siempre vengan del mismo lugar; nunca se sabe por qué huecos podrían colarse." },
-                { "language": "jp", "text": "ずっと良くなったわ！でも、いつも同じ場所から来ると思っちゃだめよ。どんな隙間から忍び込んでくるか分からないんだから。" },
-                { "language": "fr", "text": "Beaucoup mieux ! Mais tu ne peux pas t'attendre à ce qu'ils arrivent toujours du même endroit ; on ne sait jamais par quelles brèches ils pourraient passer." },
-                { "language": "de", "text": "Viel besser! Aber du kannst nicht erwarten, dass sie immer vom selben Ort kommen - man weiß nie, durch welche Lücken sie sich schleichen." },
-                { "language": "cn", "text": "好多了！但你不能指望他们总是从同一个地方出现，他们可能会从任何缝隙中钻出来。" }
+                { "language": "en", "text": "Okay that didn't go very well did it?" },
+                { "language": "es", "text": "¡Buen trabajo! {time}, lo he anotado en tu expediente. Espero que no te hayas torcido nada porque estamos lejos de terminar." },
+                { "language": "jp", "text": "よくやったわ！{time}、記録に残しておいたわよ。まだまだ終わりじゃないから、捻挫してないといいけど。" },
+                { "language": "fr", "text": "Bien joué ! {time}, je l'ai noté dans ton dossier. J'espère que tu ne t'es rien foulé, parce qu'on est loin d'avoir terminé." },
+                { "language": "de", "text": "Gute Arbeit! {time}, ich habe es in deiner Akte vermerkt. Hoffentlich hast du dir nichts verstaucht, denn wir sind noch lange nicht fertig." },
+                { "language": "cn", "text": "干得好！{time}，我已经记录在你的档案里了。希望你没有扭到什么，因为我们还远远没有结束。" }
             ],
             "position": "right",
             "animation": "player_wave"
@@ -40,12 +16,51 @@
         {
             "speakerId": "Maisie",
             "textTranslations": [
-                { "language": "en", "text": "This time they'll be released from two locations, think you can handle it?" },
-                { "language": "es", "text": "Esta vez saldrán de dos lugares distintos, ¿crees que podrás manejarlo?" },
-                { "language": "jp", "text": "今回は二か所から現れるわ。対応できると思う？" },
-                { "language": "fr", "text": "Cette fois, ils sortiront de deux endroits différents. Tu penses pouvoir gérer ça ?" },
-                { "language": "de", "text": "Diesmal werden sie aus zwei verschiedenen Orten kommen. Meinst du, du schaffst das?" },
-                { "language": "cn", "text": "这次他们会从两个地方出现，你觉得能应付得了吗？" }
+                { "language": "en", "text": "A lot more than the company is relying on you {playername}, if anything gets through we're in trouble."},
+                { "language": "es", "text": "Antes de llegar a la parte peligrosa, echemos un vistazo rápido a la información que ofrecemos para ayudarte." },
+                { "language": "jp", "text": "危険なパートに入る前に、サポートのために提供している情報を簡単に確認しましょう。" },
+                { "language": "fr", "text": "Avant d'en arriver à la partie dangereuse, jetons un coup d'œil rapide aux informations que nous fournissons pour t'aider." },
+                { "language": "de", "text": "Bevor wir zum gefährlichen Teil kommen, schauen wir uns kurz die Informationen an, die wir dir zur Verfügung stellen." },
+                { "language": "cn", "text": "在进入危险部分之前，让我们快速浏览一下我们为你提供的辅助信息。" }
+            ],
+            "position": "right",
+            "animation": "player_talking"
+        },
+        {
+            "speakerId": "Maisie",
+            "textTranslations": [
+                { "language": "en", "text": "There are worse things down there than this, so this is where our platforms and turrets come in handy."},
+                { "language": "es", "text": "Primero tenemos el P.A.D, esto te informará sobre peligros o información crítica de la misión." },
+                { "language": "jp", "text": "まずP.A.D.があるわ。これは危険や任務に重要な情報を知らせてくれるものよ。" },
+                { "language": "fr", "text": "Nous avons d'abord le P.A.D, qui t'informera des dangers ou des informations critiques pour la mission." },
+                { "language": "de", "text": "Zuerst haben wir das P.A.D, das dich über Gefahren oder missionskritische Informationen informiert." },
+                { "language": "cn", "text": "首先是P.A.D,它会向你提示危险或任务关键信息。" }
+            ],
+            "position": "right",
+            "animation": "player_talking"
+        },
+        {
+            "speakerId": "Maisie",
+            "textTranslations": [
+                { "language": "en", "text": "Place some platforms ({input.platform}) in a way that makes the Biosphere harder to reach, Then on top of those place some gun turrets ({input.turret}) to help you." },
+                { "language": "es", "text": "Aquí, en el lado derecho, tenemos información sobre tu misión." },
+                { "language": "jp", "text": "右側にはあなたのミッションに関する情報があるわ。" },
+                { "language": "fr", "text": "Ici, sur le côté droit, nous avons des informations sur ta mission." },
+                { "language": "de", "text": "Hier auf der rechten Seite haben wir Informationen zu deiner Mission." },
+                { "language": "cn", "text": "右侧这里显示的是你的任务信息。" }
+            ],
+            "position": "right",
+            "animation": "player_talking"
+        },
+        {
+            "speakerId": "Maisie",
+            "textTranslations": [
+                { "language": "en", "text": "Note that they can only be request in the specified \"Build Zones\"."},
+                { "language": "es", "text": "Y aquí abajo están tus estadísticas vitales. Aunque haremos todo lo posible por mantenerte con vida, lo ideal sería evitar que te lastimes." },
+                { "language": "jp", "text": "そしてここ下にあるのはあなたのバイタル情報よ。死なないように最善を尽くすけど、怪我はできれば避けてほしいわ。" },
+                { "language": "fr", "text": "Et en bas, vous avez vos statistiques vitales. Nous ferons de notre mieux pour vous éviter de mourir, mais il vaut mieux éviter de se blesser." },
+                { "language": "de", "text": "Und hier unten sind deine Vitalwerte. Wir werden unser Bestes tun, um dich am Leben zu halten, aber Verletzungen sollten möglichst vermieden werden." },
+                { "language": "cn", "text": "下面这里是你的生命体征。我们会尽力让你不死，但最好还是避免受伤。" }
             ],
             "position": "right",
             "animation": "player_talking"

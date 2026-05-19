@@ -1,0 +1,42 @@
+{
+    "characters": [
+        {
+            "id": "playername",
+            "nameTranslations": [
+                { "language": "en", "name": "playername" },
+                { "language": "es", "name": "playername" },
+                { "language": "jp", "name": "playername" },
+                { "language": "fr", "name": "playername" },
+                { "language": "de", "name": "playername" },
+                { "language": "cn", "name": "playername" }
+            ]
+        },
+        {
+            "id": "alice",
+            "nameTranslations": [
+                { "language": "en", "name": "Alice" },
+                { "language": "es", "name": "Alicia" },
+                { "language": "jp", "name": "アリス" }
+            ]
+        },
+        {
+            "id": "bob",
+            "nameTranslations": [
+                { "language": "en", "name": "Bob" },
+                { "language": "es", "name": "Roberto" },
+                { "language": "jp", "name": "ボブ" }
+            ]
+        },
+        {
+            "id": "Maisie",
+            "nameTranslations": [
+                { "language": "en", "name": "Maisie" },
+                { "language": "es", "name": "Maisie" },
+                { "language": "jp", "name": "メイジー" },
+                { "language": "fr", "name": "Maisie" },
+                { "language": "de", "name": "Maisie" },
+                { "language": "cn", "name": "梅西" }
+            ]
+        } 
+    ]
+}

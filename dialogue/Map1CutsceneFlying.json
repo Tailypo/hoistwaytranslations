@@ -3,7 +3,7 @@
         {
             "speakerId": "Maisie",
             "textTranslations": [
-                { "language": "en", "text": "Much better! But you can't expect them to always come from the same place, you can never guess the gaps they might sneak through." },
+                { "language": "en", "text": "This right here is one of our Angelorum spec prototypes,  there's not really much use for them currently so we send them down here to hit about." },
                 { "language": "es", "text": "¡Mucho mejor! Pero no puedes esperar que siempre vengan del mismo lugar; nunca se sabe por qué huecos podrían colarse." },
                 { "language": "jp", "text": "ずっと良くなったわ！でも、いつも同じ場所から来ると思っちゃだめよ。どんな隙間から忍び込んでくるか分からないんだから。" },
                 { "language": "fr", "text": "Beaucoup mieux ! Mais tu ne peux pas t'attendre à ce qu'ils arrivent toujours du même endroit ; on ne sait jamais par quelles brèches ils pourraient passer." },
@@ -16,7 +16,7 @@
         {
             "speakerId": "Maisie",
             "textTranslations": [
-                { "language": "en", "text": "I found a creature in my lunch box once, and Lister claims to have one stalking him. You'll have time to ask him about that later if you want, he never shuts up about it."},
+                { "language": "en", "text": "Since it can fly, it can ignore your platforms, so keep an eye on the skies for anything sneaking past."},
                 { "language": "es", "text": "Esta vez saldrán de dos lugares distintos, ¿crees que podrás manejarlo?" },
                 { "language": "jp", "text": "今回は二か所から現れるわ。対応できると思う？" },
                 { "language": "fr", "text": "Cette fois, ils sortiront de deux endroits différents. Tu penses pouvoir gérer ça ?" },
@@ -29,7 +29,7 @@
         {
             "speakerId": "Maisie",
             "textTranslations": [
-                { "language": "en", "text": "This time I'll be releasing them from two locations, think you can handle it?"},
+                { "language": "en", "text": "Most turrets will be able to hit them, but there's some that do it better than others."},
                 { "language": "es", "text": "Esta vez saldrán de dos lugares distintos, ¿crees que podrás manejarlo?" },
                 { "language": "jp", "text": "今回は二か所から現れるわ。対応できると思う？" },
                 { "language": "fr", "text": "Cette fois, ils sortiront de deux endroits différents. Tu penses pouvoir gérer ça ?" },

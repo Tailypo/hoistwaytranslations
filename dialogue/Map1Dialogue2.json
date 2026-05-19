@@ -1,64 +1,27 @@
 {
-    "characters": [
-        {
-            "id": "Maisie",
-            "nameTranslations": [
-                { "language": "en", "name": "Maisie" },
-                { "language": "es", "name": "Maisie" },
-                { "language": "jp", "name": "メイジー" },
-                { "language": "fr", "name": "Maisie" },
-                { "language": "de", "name": "Maisie" },
-                { "language": "cn", "name": "梅西" }
-            ]
-        },
-        {
-            "id": "playername",
-            "nameTranslations": [
-                { "language": "en", "name": "playername" },
-                { "language": "es", "name": "playername" },
-                { "language": "jp", "name": "playername" },
-                { "language": "fr", "name": "playername" },
-                { "language": "de", "name": "playername" },
-                { "language": "cn", "name": "playername" }
-            ]
-        }
-    ],
     "dialogue": [
         {
             "speakerId": "Maisie",
             "textTranslations": [
-                { "language": "en", "text": "Okay that didn't go very well did it?" },
-                { "language": "es", "text": "Bueno, eso no salió muy bien, ¿verdad?" },
-                { "language": "jp", "text": "うまくはいかなかったみたいね？" },
-                { "language": "fr", "text": "Bon, ça ne s'est pas très bien passé, n'est-ce pas ?" },
-                { "language": "de", "text": "Okay, das lief nicht besonders gut, oder?" },
-                { "language": "cn", "text": "好吧，那好像不太顺利，对吧？" }
+                { "language": "en", "text": "Nice work! {time}, I've marked it on your record, Hope you didn't sprain anything because we're far from done." },
+                { "language": "es", "text": "¡Buen trabajo! {time}, lo he anotado en tu expediente. Espero que no te hayas torcido nada porque estamos lejos de terminar." },
+                { "language": "jp", "text": "よくやったわ！{time}、記録に残しておいたわよ。まだまだ終わりじゃないから、捻挫してないといいけど。" },
+                { "language": "fr", "text": "Bien joué ! {time}, je l'ai noté dans ton dossier. J'espère que tu ne t'es rien foulé, parce qu'on est loin d'avoir terminé." },
+                { "language": "de", "text": "Gute Arbeit! {time}, ich habe es in deiner Akte vermerkt. Hoffentlich hast du dir nichts verstaucht, denn wir sind noch lange nicht fertig." },
+                { "language": "cn", "text": "干得好！{time}，我已经记录在你的档案里了。希望你没有扭到什么，因为我们还远远没有结束。" }
             ],
             "position": "right",
             "animation": "player_wave"
         },
         {
-            "speakerId": "playername",
-            "textTranslations": [
-                { "language": "en", "text": "There were far too many! You can't expect me to get all of those with just this gun!" },
-                { "language": "es", "text": "¡Eran demasiados! ¡No puedes esperar que los elimine a todos solo con esta arma!" },
-                { "language": "jp", "text": "数が多すぎたよ！この銃だけで全部倒せるわけないだろ！" },
-                { "language": "fr", "text": "Ils étaient bien trop nombreux ! Tu ne peux pas t'attendre à ce que je les élimine tous avec seulement ce pistolet !" },
-                { "language": "de", "text": "Es waren viel zu viele! Du kannst doch nicht erwarten, dass ich die alle nur mit dieser Waffe erledige!" },
-                { "language": "cn", "text": "敌人太多了！你不能指望我只靠这把枪就能消灭他们！" }
-            ],
-            "position": "left",
-            "animation": "player_talking"
-        },
-        {
             "speakerId": "Maisie",
             "textTranslations": [
-                { "language": "en", "text": "This is where our turrets come in handy, I've credited your account with some resources, don't worry this won't increase your debt much." },
-                { "language": "es", "text": "Aquí es donde nuestras plataformas y torretas resultan útiles, he acreditado tu cuenta con algunos recursos, no te preocupes, esto no aumentará mucho tu deuda." },
-                { "language": "jp", "text": "ここで私たちのプラットフォームとタレットが役に立つのよ。あなたのアカウントにいくつかのリソースをクレジットしたから、心配しないで、これがあなたの負債を大きくすることはないわ。" },
-                { "language": "fr", "text": "C'est là que nos plateformes et tourelles deviennent utiles, j'ai crédité votre compte avec des ressources, ne vous inquiétez pas, cela n'augmentera pas beaucoup votre dette." },
-                { "language": "de", "text": "Hier kommen unsere Plattformen und Geschütztürme ins Spiel, ich habe deinem Konto einige Ressourcen gutgeschrieben, keine Sorge, das wird deine Schulden nicht stark erhöhen." },
-                { "language": "cn", "text": "这就是我们的平台和炮塔派上用场的时候了，我已经给你的账户增加了一些资源，别担心，这不会大幅增加你的债务。" }
+                { "language": "en", "text": "Before we get to the dangerous part, Let's take a quick look at the information we provide to help you." },
+                { "language": "es", "text": "Antes de llegar a la parte peligrosa, echemos un vistazo rápido a la información que ofrecemos para ayudarte." },
+                { "language": "jp", "text": "危険なパートに入る前に、サポートのために提供している情報を簡単に確認しましょう。" },
+                { "language": "fr", "text": "Avant d'en arriver à la partie dangereuse, jetons un coup d'œil rapide aux informations que nous fournissons pour t'aider." },
+                { "language": "de", "text": "Bevor wir zum gefährlichen Teil kommen, schauen wir uns kurz die Informationen an, die wir dir zur Verfügung stellen." },
+                { "language": "cn", "text": "在进入危险部分之前，让我们快速浏览一下我们为你提供的辅助信息。" }
             ],
             "position": "right",
             "animation": "player_talking"
@@ -66,12 +29,12 @@
         {
             "speakerId": "Maisie",
             "textTranslations": [
-                { "language": "en", "text": "Place some platforms ({input.platform}) in a way that makes the power orb harder to reach, Then on top of those place some gun turrets ({input.turret}) to help you." },
-                { "language": "es", "text": "Coloca algunas plataformas ({input.platform}) de forma que sea más difícil alcanzar el orbe de poder. Luego coloca encima torretas ({input.turret}) para que te ayuden." },
-                { "language": "jp", "text": "パワーオーブにたどり着きにくくなるようにプラットフォーム ({input.platform}) を配置して、その上にガンタレット ({input.turret}) を置いて助けにしなさい。" },
-                { "language": "fr", "text": "Place quelques plateformes ({input.platform}) pour rendre l'orbe d'énergie plus difficile à atteindre, puis installe des tourelles ({input.turret}) dessus pour t’aider." },
-                { "language": "de", "text": "Platziere einige Plattformen ({input.platform}), damit die Energiekugel schwerer zu erreichen ist. Stell dann Geschütztürme ({input.turret}) darauf, um dir zu helfen." },
-                { "language": "cn", "text": "放置一些平台 ({input.platform}) 让能量球更难被接近，然后在上面放置一些炮塔 ({input.turret}) 来帮你。" }
+                { "language": "en", "text": "First we have the P.A.D, This will inform you about dangers or mission critical information." },
+                { "language": "es", "text": "Primero tenemos el P.A.D, esto te informará sobre peligros o información crítica de la misión." },
+                { "language": "jp", "text": "まずP.A.D.があるわ。これは危険や任務に重要な情報を知らせてくれるものよ。" },
+                { "language": "fr", "text": "Nous avons d'abord le P.A.D, qui t'informera des dangers ou des informations critiques pour la mission." },
+                { "language": "de", "text": "Zuerst haben wir das P.A.D, das dich über Gefahren oder missionskritische Informationen informiert." },
+                { "language": "cn", "text": "首先是P.A.D,它会向你提示危险或任务关键信息。" }
             ],
             "position": "right",
             "animation": "player_talking"
@@ -79,12 +42,77 @@
         {
             "speakerId": "Maisie",
             "textTranslations": [
-                { "language": "en", "text": "Note that you can only place them in the highlighted \"Build Zones\" for safety reasons." },
-                { "language": "es", "text": "Ten en cuenta que puedes colocarlos en las 'Zonas de construcción' resaltadas." },
-                { "language": "jp", "text": "強調表示されている「建設ゾーン」に配置できることを覚えておいて。" },
-                { "language": "fr", "text": "Note que tu peux les placer dans les « zones de construction » mises en évidence." },
-                { "language": "de", "text": "Beachte, dass du sie in den hervorgehobenen „Bauzonen“ platzieren kannst." },
-                { "language": "cn", "text": "请注意，你只能将它们放置在高亮显示的“建造区域”内。" }
+                { "language": "en", "text": "Here on the right side we have information about your mission." },
+                { "language": "es", "text": "Aquí, en el lado derecho, tenemos información sobre tu misión." },
+                { "language": "jp", "text": "右側にはあなたのミッションに関する情報があるわ。" },
+                { "language": "fr", "text": "Ici, sur le côté droit, nous avons des informations sur ta mission." },
+                { "language": "de", "text": "Hier auf der rechten Seite haben wir Informationen zu deiner Mission." },
+                { "language": "cn", "text": "右侧这里显示的是你的任务信息。" }
+            ],
+            "position": "right",
+            "animation": "player_talking"
+        },
+        {
+            "speakerId": "Maisie",
+            "textTranslations": [
+                { "language": "en", "text": "And down here is your vital statistics, while we'll do our best to keep you from dying, getting hurt should preferably be avoided." },
+                { "language": "es", "text": "Y aquí abajo están tus estadísticas vitales. Aunque haremos todo lo posible por mantenerte con vida, lo ideal sería evitar que te lastimes." },
+                { "language": "jp", "text": "そしてここ下にあるのはあなたのバイタル情報よ。死なないように最善を尽くすけど、怪我はできれば避けてほしいわ。" },
+                { "language": "fr", "text": "Et en bas, vous avez vos statistiques vitales. Nous ferons de notre mieux pour vous éviter de mourir, mais il vaut mieux éviter de se blesser." },
+                { "language": "de", "text": "Und hier unten sind deine Vitalwerte. Wir werden unser Bestes tun, um dich am Leben zu halten, aber Verletzungen sollten möglichst vermieden werden." },
+                { "language": "cn", "text": "下面这里是你的生命体征。我们会尽力让你不死，但最好还是避免受伤。" }
+            ],
+            "position": "right",
+            "animation": "player_talking"
+        },
+        {
+            "speakerId": "Maisie",
+            "textTranslations": [
+                { "language": "en", "text": "This here is the Biosphere, to complete the training you need to allow it to fully charge." },
+                { "language": "es", "text": "Esto es la Biosfera. Para completar el entrenamiento necesitas dejar que se cargue por completo." },
+                { "language": "jp", "text": "これがバイオスフィアよ。訓練を完了するには、完全にチャージさせる必要があるわ。" },
+                { "language": "fr", "text": "Voici la Biosphère. Pour terminer l'entraînement, tu dois la laisser se charger complètement." },
+                { "language": "de", "text": "Das hier ist die Biosphäre. Um das Training abzuschließen, musst du sie vollständig aufladen lassen." },
+                { "language": "cn", "text": "这里是生物圈。要完成训练，你需要让它完全充电。" }
+            ],
+            "position": "right",
+            "animation": "player_talking"
+        },
+        {
+            "speakerId": "Maisie",
+            "textTranslations": [
+                { "language": "en", "text": "For your second training mark, let's see how you handle a weapon. "},
+                { "language": "es", "text": "Para tu segunda marca de entrenamiento, veamos cómo manejas un arma." },
+                { "language": "jp", "text": "2つ目の訓練評価として、武器の扱いを見せてもらいましょう。" },
+                { "language": "fr", "text": "Pour ta deuxième note d'entraînement, voyons comment tu te débrouilles avec une arme." },
+                { "language": "de", "text": "Für deine zweite Trainingsbewertung schauen wir mal, wie du mit einer Waffe umgehst." },
+                { "language": "cn", "text": "为了你的第二个训练评分，让我们看看你如何使用武器。" }
+            ],
+            "position": "right",
+            "animation": "player_talking"
+        },
+        {
+            "speakerId": "Maisie",
+            "textTranslations": [
+                { "language": "en", "text": "Open your inventory ({input.inventory}) and equip the gun we've given you."},
+                { "language": "es", "text": "Abre tu inventario ({input.inventory}) y equípate con el arma que te hemos dado." },
+                { "language": "jp", "text": "インベントリ ({input.inventory}) を開いて、支給した銃を装備してちょうだい。" },
+                { "language": "fr", "text": "Ouvre ton inventaire ({input.inventory}) et équipe l'arme que nous t'avons donnée." },
+                { "language": "de", "text": "Öffne dein Inventar ({input.inventory}) und rüste die Waffe aus, die wir dir gegeben haben." },
+                { "language": "cn", "text": "打开你的背包 ({input.inventory})，装备我们给你的枪。" }
+            ],
+            "position": "right",
+            "animation": "player_talking"
+        },
+        {
+            "speakerId": "Maisie",
+            "textTranslations": [
+                { "language": "en", "text": "Then use your P.A.D to tell us you're ready ({input.startwave}) and we'll send some dummies at the biosphere."},
+                { "language": "es", "text": "Luego usa tu P.A.D para indicarnos que estás listo ({input.startwave}) y enviaremos algunos blancos hacia la biosfera." },
+                { "language": "jp", "text": "次にP.A.D.を使って準備完了を知らせて ({input.startwave})。そうしたらバイオスフィアにダミーを送り込むわ。" },
+                { "language": "fr", "text": "Utilise ensuite ton P.A.D pour nous dire que tu es prêt ({input.startwave}) et nous enverrons des mannequins vers la biosphère." },
+                { "language": "de", "text": "Benutze dann dein P.A.D, um uns mitzuteilen, dass du bereit bist ({input.startwave}), und wir schicken ein paar Attrappen zur Biosphäre." },
+                { "language": "cn", "text": "然后使用你的P.A.D告诉我们你已经准备好了 ({input.startwave})，我们会向生物圈派送一些假人。" }
             ],
             "position": "right",
             "animation": "player_talking"
