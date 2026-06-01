@@ -1,4 +1,29 @@
 {
+  "SHOP_DIALOGUE_SOLDOUT": [
+    "One per customer, limited stock and all, It's not easy to get these out of the rift you know.",
+    "Hope it does you well!. Afraid that's all I can give you.",
+    "Reaching into the rift is dangerous, I can't risk it too much. I'm sorry, but that's all I can give you."
+  ],
+  "SHOP_DIALOGUE_BUYSOMETHING": [
+    "Here's wehat I've got you you, want any of it?",
+    "One person customer! Take a look at my wares, see if anything catches your eye.",
+    "This is what I've got for you, it wasn't easy to get a hold of them."
+  ],
+  "SHOP_DIALOGUE_NOTENOUGHMONEY": [
+    "You don't have enough money for that!",
+    "This was a risky trip to get this, you're not haggling for it.",
+    "No money, no items.",
+    "I'm not letting it go for a penny less."
+  ],
+  "SHOP_DIALOGUE_SETTINGUP": [
+    "I'm just getting set up. Come back later.",
+    "The void is a dangerous place, I need to be careful setting up. Come back later.",
+    "My inventory is still being organized, come back later."
+  ],
+  "SHOP_DIALOGUE_UNAVAILABLE": [
+    "There's some interference with the rift, I can't get anything out right now.",
+    "Haven't you got something else you should be doing?"
+  ],
   "CONDITIONTELLER_DIALOGUE_INTRODUCTION": "come closer. you want to know about this place, yes? well, listen close.@Me can move around easy, tell you how things are where you're going, help prepare.",
   "CONDITIONTELLER_DIALOGUE_RAIN": [
     "it soggy down there today, watch out for electric things.",
