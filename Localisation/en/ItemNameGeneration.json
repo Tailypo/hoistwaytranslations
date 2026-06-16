@@ -446,5 +446,15 @@
     "Armour Shift",
     "Dynamic Guard",
     "Move Protection"
+  ],
+  "ITEM_TRINKET_AMMO_THEFT": [
+    "Ammo Theft",
+    "Ammo Dropper",
+    "Recycler"
+  ],
+  "ITEM_TRINKET_STATUS_SHARER": [
+    "Status Sharer",
+    "Effect Distributor",
+    "Condition Spreader"
   ]
 }

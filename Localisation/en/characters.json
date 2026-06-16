@@ -68,5 +68,6 @@
     "ENEMY_TESTING_SHAMBLER": "Shambler (dev)",
     "ENEMY_TESTING_TALLBOY": "Tallboy (dev)",
     "ENEMY_TESTING_TANK": "Tank (dev)",
-    "ENEMY_TESTING_BOSS": "Boss (dev)"
+    "ENEMY_TESTING_BOSS": "Boss (dev)",
+    "ENEMY_TESTING_MINIBOSS": "Mini Boss (dev)"
 }
