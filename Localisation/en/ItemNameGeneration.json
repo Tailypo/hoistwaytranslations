@@ -76,6 +76,34 @@
     "Ephemeral",
     "Fleeting"
   ],
+  "ITEM_WORDS_CRIT_DAMAGE": [
+    "Brutal",
+    "Ruthless",
+    "Savage",
+    "Merciless",
+    "Critical"
+  ],
+  "ITEM_WORDS_BAD_CRIT_DAMAGE": [
+    "Feeble",
+    "Mild",
+    "Puny",
+    "Lacklustre",
+    "Mediocre"
+  ],
+  "ITEM_WORDS_PROJECTILE_PIERCING": [
+    "Piercing",
+    "Penetrating",
+    "Shredding",
+    "Rending",
+    "Slicing"
+  ],
+  "ITEM_WORDS_BAD_PROJECTILE_PIERCING": [
+    "Blunt",
+    "Dull",
+    "Non-Penetrating",
+    "Shallow",
+    "Surface"
+  ],
   "ITEM_WORDS_DEFENSE": [
     "Defensive",
     "Armored",
