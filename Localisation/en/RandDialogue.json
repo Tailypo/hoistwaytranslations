@@ -105,17 +105,19 @@
     "a colleague has been defeated"
   ],
   "PAD_PLAYERDEATH": [
-    "You are expendable, your hardware is not. Do not damage or misplace company property.",
+    "Your equipment is not expendable. Do not damage or misplace company property.",
     "Try to be more careful.",
     "The company is relying on your success.",
-    "Please do better next time.",
-    "Additional debt has been assigned to your account."
+    "We remind you of the cost saving your life.",
+    "Additional debt has been assigned to your account.",
+    "Repeated deaths will result in failure.",
+    "A negative mark has been added to your account."
   ],
   "PAD_STORY_FIRSTENABLE": [
     "Psychosis Analytics Device active, connection successful, Welcome to the P.A.D network. This PAD is connected to the Sun Corporation and will assist you in your work. Please follow the provided manual and do not damage or misplace company property."
   ],
   "PAD_FIRSTBEEP": [
-    "PAD has detected an unusual signal. Be aware of increases in beep frequency to avoid damage to unit."
+    "PAD has detected an unusual signal. Be aware of increases in signal frequency to avoid damage to unit."
   ],
   "PAD_BIOSPHEREDESTROYED": [
     "Biosphere destroyed, Management has been notified.",
