@@ -24,11 +24,11 @@
     "There's some interference with the rift, I can't get anything out right now.",
     "Haven't you got something else you should be doing?"
   ],
-  "CONDITIONTELLER_DIALOGUE_INTRODUCTION": "come closer. you want to know about this place, yes? well, listen close.@Me can move around easy, tell you how things are where you're going, help prepare.",
+  "CONDITIONTELLER_DIALOGUE_INTRODUCTION": "you want know about this place, yes? listen close me move around easy, tell you things where you going, help prepare.",
   "CONDITIONTELLER_DIALOGUE_RAIN": [
-    "it soggy down there today, watch out for electric things.",
-    "me hear it rain lots today, putting out all the fires down there.",
-    "it rain a lot today, be careful of flood water."
+    "it wet down there today, watch out for zappy things.",
+    "me hear it rain lots today, putting out all our fires.",
+    "today rain a lot, be careful of flood water."
   ],
   "CONDITIONTELLER_DIALOGUE_ENEMIES": [
     "there dangerous things today, be careful.",
@@ -47,7 +47,19 @@
     "me no see anything today, but maybe you want tell me? me like to listen.",
     "look nice down there, maybe you bring me?"
   ],
-    "SHOP_DIALOGUE_HELLO": [
+  "CONDITIONTELLER_DIALOGUE_UPGRADER":[
+    "today is a good day if you have special items, the upgrader is in town, go find him",
+    "me was roaming and this thing, big thing, said he would make my guns better, me no have guns though"
+  ],
+  "CONDITIONTELLER_DIALOGUE_DARKNESS":[
+      "Today is a the day for hiding. The darkness is arriving upon us all.",
+      "The Detrius shines upon us, gaze in its awe for my people come."
+  ],
+  "CONDITIONTELLER_DIALOGUE_RICHES":[
+    "you want things? today lucky day, lots stolen from company today.",
+    "the roots shift, revealing many things if you look hard"
+  ],
+  "SHOP_DIALOGUE_HELLO": [
     "Come come! Step right up! I have the finest wares in the universe! Take a look and see if anything catches your eye!",
     "I've snuck these out of the rift just for you! Take a look and see if anything catches your eye!",
     "Your items are nice and all, but I have something better! Your company's goods can't compare to mine!",
@@ -56,7 +68,7 @@
     "Bloody work out there, but you could do better with my help."
   ],
   "PAD_INTRODEFENCE": [
-    "Biosphere supression field failure, Attack imminant.",
+    "Biosphere supression field failure, Attack imminent.",
     "Biosphere at low power, Defend until energy recovery complete.",
     "Biosphere damaged, defend while The Sun Corporation recovers capabilities."
   ],
@@ -68,7 +80,7 @@
   ],
   "PAD_BUILD_MODE": [
     "Build Mode",
-    "Build Mode Activated",
+    "Building Activated",
     "Construction permitted.",
     "Build your defenses."
   ],
@@ -84,9 +96,11 @@
   "PAD_BOSS_SPAWN": [
     "Immense lifeform detected.",
     "Monumental signal detected. Good luck.",
-    "The corporation sends its best wishes.",
-    "Evacuation is suggested.",
+    "Threats to human life detected, eliminate.",
     "Dangerous creature detected."
+  ],
+  "PAD_BOSS_HUMAN": [
+    "Combatance against human subjects is against the terms of the sun corporation, report for immediate dismissal."
   ],
     "PAD_INTROPOWERLINE": [
     "Damage to powerlines will be reflected in your debt.",
@@ -108,7 +122,7 @@
     "Your equipment is not expendable. Do not damage or misplace company property.",
     "Try to be more careful.",
     "The company is relying on your success.",
-    "We remind you of the cost saving your life.",
+    "Be aware of the cost saving your life.",
     "Additional debt has been assigned to your account.",
     "Repeated deaths will result in failure.",
     "A negative mark has been added to your account."
@@ -145,5 +159,14 @@
     "Unit beyond operational temperature range.",
     "Unit overheat, seek maintenance personnel.",
     "Unit warrenty void, report to management for corrective action."
+  ],
+  "PAD_RANDOMPRESENT":[
+    "The company is rewarding you for good behaviour, collect it before the enemy does.",
+    "The company has sent you a gift, find and retrieve it.",
+    "Resources have been delivered to your area for collection."
+  ],
+  "PAD_COLLECTEDCURRENCY":[
+    "Additional build credit collected",
+    "Building Credits have been added to your account"
   ]
 }
