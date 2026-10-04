@@ -3,5 +3,7 @@
   "MAP_DEV": "Development Map",
   "MAP_DEV_DESCRIPTION": "Dev map for testing.",
   "MAP_1-1": "Developmental 1",
-  "MAP_1-1_DESCRIPTION": "Day two of your training, hidden down in the warehouse."
+  "MAP_1-1_DESCRIPTION": "Day two of your training, hidden down in the warehouse.",
+  "MAP_3-4": "(DEV) The Waterfall",
+  "MAP_3-4_DESCRIPTION": "Early prototype map for testing."
 }

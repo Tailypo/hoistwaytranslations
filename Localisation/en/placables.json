@@ -69,7 +69,7 @@
     "TURRET_PULSETURRET_UNLOCKCONDITION_SHORT": "Story Progression",
     "TURRET_RESPAWNPOINT": "Recall Station",
     "TURRET_RESPAWNPOINT_DESC": "Allows quick teleportation to a previous location for one wave.\n<size=15>Cost: {cost}</size>",
-    "TURRET_RESPAWNPOINT_UNLOCKCONDITION": "Walk {req} miles.",
+    "TURRET_RESPAWNPOINT_UNLOCKCONDITION": "Walk a big distance {req}.",
     "TURRET_RESPAWNPOINT_UNLOCKCONDITION_SHORT": "Walk distance",
     "TURRET_LINKPOINT": "(TODO) Link Point",
     "TURRET_LINKPOINT_DESC": "Links two points with a damaging beam that weakens enemies touching it.\n<size=15>Cost: {cost}</size>",

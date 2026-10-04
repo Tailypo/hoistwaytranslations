@@ -4,7 +4,7 @@
         "lines": [
             {
                 "textTranslations": [
-                    { "language": "en", "text": "Oh a new one, willing or unwilling? I hope for your sake you came here willingly. Five months I've been here, and there's no end in sight." },
+                    { "language": "en", "text": "Oh a new one, willing or unwilling? I hope for your sake you came here willingly, not that I'd suggest that anyway." },
                     { "language": "es", "text": "Oh, un recién llegado, ¿por voluntad propia o no? Espero por tu bien que hayas venido voluntariamente. Llevo cinco meses aquí y no se ve el final." },
                     { "language": "jp", "text": "ああ、新入りか。自分の意思か、そうでないのか？君のためにも、自分の意思で来たことを願うよ。私はここに五か月いるが、終わりが見えない。" },
                     { "language": "fr", "text": "Tiens, un nouveau. Volontaire ou pas ? Pour ton bien, j'espère que tu es venu de ton plein gré. Moi, ça fait cinq mois que je suis ici, et je ne vois pas la fin." },
@@ -21,7 +21,7 @@
         "lines": [
             {
                 "textTranslations": [
-                    { "language": "en", "text": "A word of advice, if they say doing something will pay off your debt faster, they're lying." },
+                    { "language": "en", "text": "A word of advice from somebody who's been doing this for 5 months, if they say doing something will pay off your debt faster, they're lying." },
                     { "language": "es", "text": "Un consejo: si te dicen que hacer algo pagará tu deuda más rápido, mienten." },
                     { "language": "jp", "text": "忠告しておくが、何かをすれば借金が早く返せると言われても、それは嘘だ。" },
                     { "language": "fr", "text": "Un conseil : s'ils te disent que faire quelque chose remboursera ta dette plus vite, ils mentent." },
@@ -39,6 +39,34 @@
                     { "language": "cn", "text": "不过，就算你想拒绝，也不会有什么用。" }
                 ]
             }
-        ]
+        ],
+        "NextInstruction": "0-3"
+    },
+    "0-3": {
+        "audio": "replaceme",
+        "lines": [
+            {
+                "textTranslations": [
+                    { "language": "en", "text": "So what got you here? Everybody's here for something, what's your debt for? @Reason@" },
+                    { "language": "es", "text": "Un consejo: si te dicen que hacer algo pagará tu deuda más rápido, mienten." },
+                    { "language": "jp", "text": "忠告しておくが、何かをすれば借金が早く返せると言われても、それは嘘だ。" },
+                    { "language": "fr", "text": "Un conseil : s'ils te disent que faire quelque chose remboursera ta dette plus vite, ils mentent." },
+                    { "language": "de", "text": "Ein Rat: Wenn sie sagen, dass eine bestimmte Aufgabe deine Schulden schneller tilgt, lügen sie." },
+                    { "language": "cn", "text": "给你一句忠告：如果他们说做点什么能让你更快还清债务，那就是在骗你。" }
+                ]
+            },
+            {
+                "textTranslations": [
+                    { "language": "en", "text": "You got in debt by {Reason}? hehe." },
+                    { "language": "es", "text": "No es que intentar negarte te vaya a servir de algo." },
+                    { "language": "jp", "text": "もっとも、断ろうとしても何の役にも立たないがな。" },
+                    { "language": "fr", "text": "Et puis, refuser ne t'apportera rien de toute façon." },
+                    { "language": "de", "text": "Nicht, dass es dir etwas bringen würde, es abzulehnen." },
+                    { "language": "cn", "text": "不过，就算你想拒绝，也不会有什么用。" }
+                ]
+            }
+        ],
+        "NextInstruction": "0-3"
     }
+
 }

@@ -305,6 +305,12 @@
     "Ending",
     "Finale"
   ],
+  "ITEM_EFFECT_STOCKHOLD": [
+    "Stockhold",
+    "Stocking",
+    "Holding",
+    "Extra"
+  ],
   "ITEM_TRINKET_SPEEDY": [
     "Speedy",
     "Quickstep",
@@ -320,11 +326,6 @@
     "Stay Connected",
     "Linked Strike",
     "Teamwork"
-  ],
-  "ITEM_TRINKET_TURRET_FIEND": [
-    "Turret Fiend",
-    "Hostile Ally",
-    "Dangerous Companion"
   ],
   "ITEM_TRINKET_TURRETS_FRIEND": [
     "Turret's Friend",

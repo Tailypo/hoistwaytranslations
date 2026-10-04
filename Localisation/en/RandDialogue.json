@@ -87,7 +87,15 @@
   "PAD_NO_PATH": [
     "No Path to Biosphere",
     "Biosphere is unreachable.",
-    "Biosphere requires access to enemy approach"
+    "Biosphere requires access to enemy approach",
+    "Blocking will result in severe enemy force.",
+    "Immense Lifesign detected due to blockage"
+  ],
+  "PAD_PATH_RESTORED":[
+    "Path Restored.",
+    "Danger Averted.",
+    "Biosphere Reachable.",
+    "Lifesign retreating."
   ],
   "PAD_NEW_LIFEFORM": [
     "New lifeform detected, adding to databank.",
@@ -168,5 +176,10 @@
   "PAD_COLLECTEDCURRENCY":[
     "Additional build credit collected",
     "Building Credits have been added to your account"
+  ],
+  "PAD_LOBBY_NEWMAPSELECTED":[
+    "Location selected, elevator access granted.",
+    "New destination selected, prepare for deployment.",
+    "Hoistway destination set."
   ]
 }
