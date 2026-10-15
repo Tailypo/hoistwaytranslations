@@ -47,7 +47,7 @@
         "lines": [
             {
                 "textTranslations": [
-                    { "language": "en", "text": "So what got you here? Everybody's here for something, what's your debt for? @Reason@" },
+                    { "language": "en", "text": "So what got you here? Everybody's here for something, what's your debt for? @R" },
                     { "language": "es", "text": "Un consejo: si te dicen que hacer algo pagará tu deuda más rápido, mienten." },
                     { "language": "jp", "text": "忠告しておくが、何かをすれば借金が早く返せると言われても、それは嘘だ。" },
                     { "language": "fr", "text": "Un conseil : s'ils te disent que faire quelque chose remboursera ta dette plus vite, ils mentent." },
